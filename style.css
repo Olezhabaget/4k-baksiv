@@ -1,0 +1,584 @@
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Chonburi&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@100;300;400;700;900&display=swap');
+
+:root {
+    --lera: "Inter", sans-serif;
+    --lera1: "Brygada 1918", serif;
+    --lera2: "Chonburi", serif;
+    --lera3: "Koh Santepheap", serif;
+
+    --lerac: #E0C4AD;
+    --lerac1: #FFFFFF;
+    --lerac2: #FBF9DA;
+    --lerac3: #000000;
+    --lerac4: #6A5B4E;
+    --lerac5: #C50000;
+}
+
+body {
+    font-family: var(--lera);
+}
+
+a{
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+    height: 155px;
+    position: fixed;
+    top: 0px;
+    z-index: 999;
+}
+
+.div-1 {
+    height: 21px;
+    background-color: var(--lerac);
+
+
+}
+
+.div-1 p {
+    padding: 0px;
+    margin: 0px;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 11px;
+    color: var(--lerac3);
+    text-align: center;
+    position: relative;
+    top: 4px;
+}
+
+.div-2 {
+    height: 90px;
+    background-color: var(--lerac2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 450px;
+}
+
+header button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.div-2 div {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.div-2 a {
+    font-family: var(--lera1);
+    font-weight: 500;
+    font-style: Italic;
+    font-size: 40px;
+    letter-spacing: 25%;
+    color: var(--lerac3);
+    text-decoration: none;
+}
+
+.div-3 {
+    background-color: var(--lerac1);
+}
+
+.div-3 a {
+    font-family: var(--lera2);
+    font-weight: 400;
+    font-style: "Regular";
+    font-size: 12px;
+    color: var(--lerac3);
+    text-decoration: none;
+    transition: 0.3s;
+    border-bottom: 3px #e0c4ad00 solid;
+    padding-bottom: 3px;
+}
+
+.div-3 a:hover {
+    border-bottom: 3px #E0C4AD solid;
+
+}
+
+.div-3 nav {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+    height: 43px;
+    border-bottom: 1px #E0C4AD solid;
+}
+
+.modal1 {
+    position: fixed;
+    top: 21px;
+    left: 0px;
+    z-index: 9999;
+    width: 391px;
+    height: 681px;
+    background-color: white;
+    display: none;
+    animation: swap 1s ease;
+}
+
+@keyframes swap {
+    0% {
+        transform: translateX(-400px);
+    }
+
+    100% {
+        transform: translateX(0px);
+    }
+}
+
+.modal1 button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.modal1 div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 22px;
+}
+
+.modal1 h1 {
+    font-family: var(--lera);
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    letter-spacing: 1%;
+}
+
+.modal1 h2 {
+    font-family: var(--lera);
+    font-weight: 600;
+    font-style: "Semi Bold";
+    font-size: 16px;
+    text-transform: uppercase;
+    color: var(--lerac4);
+}
+
+.modal1 .red {
+    color: var(--lerac5);
+}
+
+.modal1 .div-colum {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: left;
+    text-align: left;
+}
+
+.div-colum a {
+    text-decoration: none;
+    color: #000000;
+    font-family: var(--lera);
+    font-weight: 300;
+    font-style: Light;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.div-4 {
+    background-color: var(--lerac2);
+    height: 67px;
+    padding-bottom: 20px;
+}
+
+.modal2 {
+    position: fixed;
+    top: 130px;
+    left: 460px;
+    z-index: 9999;
+    width: 1000px;
+    height: 959px;
+    background-color: none;
+    display: none;
+}
+
+.modal2 form {
+    width: 1000px;
+    height: 80px;
+    background-color: var(--lerac1);
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal2 form button:nth-child(1) {
+    border: none;
+    background: none;
+    width: 40px;
+}
+
+.modal2 form input:nth-child(2) {
+    width: 680px;
+    height: 60px;
+    border: none;
+    font-size: 30px;
+}
+
+.modal2 form button:nth-child(3) {
+    width: 213px;
+    height: 53px;
+    background-color: var(--lerac3);
+    color: var(--lerac1);
+    border: none;
+    font-family: var(--lera);
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+}
+
+.div-5 {
+    width: 1000px;
+    height: 852px;
+    background-color: var(--lerac1);
+    margin-top: 27px;
+}
+
+.div-5 h3 {
+    font-family: var(--lera);
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    color: #53473E;
+    padding-top: 67px;
+    padding-left: 42px;
+}
+
+.div-5 h4 {
+    font-family: var(--lera);
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 15px;
+    color: var(--lerac3);
+}
+
+.div-5 hr {
+    width: 196px;
+    background-color: var(--lerac);
+    height: 2px;
+    border: none;
+}
+
+.iamstar {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.iamstar input {
+    display: none;
+}
+
+.iamstar label {
+    font-size: 22px;
+    cursor: pointer;
+    color: rgb(170, 167, 167);
+}
+
+.iamstar label:hover,
+.iamstar label:hover~label,
+.iamstar input:checked~label {
+    color: var(--lerac3);
+}
+
+.div-5 h5 {
+    font-family: var(--lera);
+    font-weight: 300;
+    font-style: Light;
+    font-size: 12px;
+    color: var(--lerac4);
+}
+
+.div-5 p {
+    font-family: var(--lera);
+    font-weight: 300;
+    font-style: Light;
+    font-size: 15px;
+    width: 195px;
+    height: 126px;
+    color: var(--lerac4);
+}
+
+.div-6 {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+
+.lerkavsnika {
+    width: 455px;
+    height: 266px;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #E0C4AD;
+}
+
+.div-7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.modal3 {
+    width: 1512px;
+    height: 238px;
+    position: fixed;
+    top: 130px;
+    left: 260px;
+    z-index: 9999;
+    background-color: var(--lerac1);
+    /* display: none; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 122px;
+    display: none;
+}
+
+.tato-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 85px;
+}
+
+
+.tato-div div {
+    width: 90px;
+}
+
+.tato-div img {
+    position: relative;
+    left: 5px;
+}
+
+.modal3 .img-1 {
+    position: relative;
+    left: -15px;
+    top: 5px;
+}
+
+.modal3 .p-1 {
+    position: relative;
+    top: -13px;
+}
+
+.modal3 .img-2 {
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+
+.modal3 .p-2 {
+    position: relative;
+    top: 8px;
+}
+
+.modal3 .img-3 {
+    position: relative;
+    left: 1px;
+}
+
+.modal4 {
+    display: flex;
+    position: relative;
+    top: 300px;
+    width: 1512px;
+    height: 238px;
+}
+
+.div-14{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-15{
+    display: flex;
+     justify-content: center;
+    align-items: center;
+}
+
+.div-14 p{
+   font-family: var(--lera);
+font-weight: 300;
+font-style: Light;
+font-size: 13px;
+line-height: 24px;
+}
+
+.div-15 p{
+   font-family: var(--lera);
+font-weight: 300;
+font-style: Light;
+font-size: 13px;
+line-height: 24px;
+
+}
+
+.modal4 h1{
+font-family: var(--lera);
+font-weight: 500;
+font-style: Medium;
+font-size: 15px;
+}
+
+footer{
+    width: 100%;
+    height: 597px;
+    background-color: var(--lerac3);
+    margin-top: 200px;
+    display: none;
+}
+
+footer h1{
+font-family: var(--lera3);
+font-weight: 300;
+font-style: Light;
+font-size: 40px;
+letter-spacing: 25%;
+color: var(--lerac1);
+}
+
+.p-3{
+font-family: var(--lera);
+font-weight: 300;
+font-style: Light;
+font-size: 15px;
+color: var(--lerac1);
+width: 286px;
+}
+
+footer b{
+    font-weight: 700;  
+}
+
+footer form{
+width: 302px;
+height: 32px;
+border:  1px var(--lerac1) solid;
+border-radius: 3px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+footer input{
+    background-color: transparent;
+    border: none;
+    color: var(--lerac1);
+    padding-left: 15px;
+}
+
+form button{
+width: 63px;   
+height: 32px; 
+background-color: var(--lerac1);
+color: var(--lerac3);
+border: none;
+}
+
+footer h2{
+font-family: var(--lera);
+font-weight: 500;
+font-style: Medium;
+font-size: 15px;
+color: var(--lerac1);
+margin-bottom: 30px;
+}
+
+.div-8 a{
+    font-family: var(--lera);
+font-weight: 200;
+font-style: Light;
+font-size: 15px;
+color: var(--lerac1);
+display: flex;
+margin-top: 13px;
+}
+
+.div-8 a:hover{
+font-weight: 300;    
+}
+
+.div-9{
+display: flex;  
+gap: 224px;  
+justify-content: center;
+    align-items: top;
+}
+
+.div-10{
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    align-items: top;
+    position: relative;
+    top: 40px;
+}
+
+.div-11{
+    color: var(--lerac1);
+}
+
+.div-11 p{
+width: 225px; 
+font-family: var(--lera);
+font-weight: 200;
+font-style: Light;
+font-size: 15px;
+}
+
+.div-8 a:hover{
+font-weight: 300;    
+}
+
+.div-12{
+    display: flex;
+    gap: 84px;
+    justify-content: right;
+    align-items: center;
+    margin-top: 100px;
+    position: relative;
+    left: -120px;
+}
+
+.div-12 button{
+    border: none;
+    background-color: transparent;
+    color: var(--lerac1);
+    cursor: pointer;
+}
+
+.div-13{
+display: flex;   
+gap: 770px;
+justify-content: center;
+align-items: center;   
+margin-top: 69px;
+}
+
+.div-13 p{
+    color: var(--lerac1);
+    font-family: var(--lera);
+font-weight: 400;
+font-style: Regular;
+font-size: 15px;
+}
+    
