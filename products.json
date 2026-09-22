@@ -1,0 +1,294 @@
+[
+   {
+        "id": 1,
+        "code": "HAIR-001",
+        "brand": "REVITALASH",
+        "name": "Thickening Shampoo",
+        "shortDescription": "Лікувальний шампунь для збільшення густоти волосся",
+        "description": "Thickening Shampoo – це безсульфатний шампунь для волосся, що потовщує пасма, захищає їх від пошкоджень та зміцнює корені. Засіб працює на основі фітоформули з терапевтичними компонентами, які турбуються про стан волосся та шкіри голови. Шампунь покращує здоровʼя шкіри голови, допомагає зміцнити пасма та захистити від зовнішніх чинників. Після застосування збільшується товщина волосся, воно виглядає більш обʼємним та густим. Також Thickening Shampoo додає волоссю сяйва та здорового вигляду. Продукт зберігає колір фарбованого волосся та не містить сульфатів.",
+        "coutry": "Італія",
+        "category": "шампуні",
+        "price": "1 250.00 ₴",
+        "oldPrice": "1 750.00 ₴",
+        "weight": "250 мл",
+        "vidguki": 26,
+        "images": [
+            "./product-img/img1.svg",
+            "./product-img/prod1 img1.svg",
+            "./product-img/prod2 img1.svg",
+            "./product-img/prod3 img1.svg",
+            "./product-img/prod4 img1.svg"
+        ],
+        "advantagesTags": [
+            "Потовщує волосину",
+            "Додає природного блиску",
+            "Зміцнює корені і кутикулу",
+            "Захищає пасма від пошкоджень",
+            "Збільшує густоту"
+        ],
+        "activeComponents": [
+            "Листя мушмули японської",
+            "Кора верби",
+            "Біотин",
+            "Пантенол"
+        ],
+        "advantages": [
+            "Листя мушмули японської – це компонент, який відповідає за збільшення товщини і густоти волосся.",
+            "Кора верби – делікатно відлущує ороговілі клітини шкіри голови.",
+            "Біотин – додає волоссю обʼєму, тому після використання воно виглядає густішим.",
+            "Пантенол – зволожує і надає сяйва."
+        ],
+        "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
+        ],
+        "methodOfUse": "Нанесіть шампунь на вологе волосся та помасажуйте круговими рухами. Залиште засіб на 1-2 хвилини та змийте великою кількістю води. Поєднуйте з лікувальним кондиціонером для збільшення густоти волосся Thickening Conditioner.",
+        "sertificate": [
+            "./product-img/protestovano-dermatologami.svg",
+            "Протестовано дерматологами",
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/vegan.svg",
+            "Веган"
+        ],
+        "ingredients": "Aqua, Sodium C14-16 Olein Sulfonate, Cocamidopropyl Hydroxysultaine, Ppg-2 Hydroxyethyl Coco/Isostearamide, Cocamidopropylamine Oxide, Peg-7 Glyceryl Cocoate, Sodium Lauroyl Sarcosinate, Peg-150 Pentaerythrityl Tetrastearate, Phenoxyethanol, Peg-60 Almond Glycerides, Parfum, Polyquaternium-39, Peg-6 Caprylic/Capric Glycerides, Panthenol, Menthol, Propanediol, Ethyl Menthane Carboxamide, Panthenyl Hydroxypropyl Steardimonium Chloride, Chlorphenesin, Disodium Laureth Sulfosuccinate, Guar Hydroxypropyltrimonium, Chloride, Caprylyl Glycol, Sodium Lauryl Sulfoacetate, Glycerin, Salix Alba Bark Extract, Butylene Glycol, Urea, Disodium Phosphate, Citric Acid, Biotin, Eriobotrya Japonica Extract, Limonene Linalool, Geraniol."
+    },
+    {
+        "id": 2,
+        "code": "HAIR-002",
+        "brand": "ANILLO",
+        "name": "Gardenia Veil Color Shield Shampoo",
+        "shortDescription": "Шампунь для фарбованого волосся",
+        "description": "ANILLO Gardenia Veil Color Shield Shampoo – шампунь для фарбованого та пошкодженого після фарбування волосся. Делікатно очищає, допомагає зберегти насиченість кольору й надає волоссю перламутрового блиску. Формула поєднує комплекс екстрактів білих квітів (жасмину, ромашки та хризантеми), протеїновий комплекс із десяти гідролізованих рослинних протеїнів і веганський колаген. Комплекс білих квітів допомагає захистити волосся від впливу вільних радикалів, підтримує яскравість фарбованого відтінку та природний блиск, тоді як протеїновий комплекс зміцнює волосся, допомагає зменшити ламкість і зберігає прикореневий об'єм. Формула не містить сульфатів, силіконів і парабенів. Активні компоненти підтримують здоровий стан фарбованого волосся, захищаючи його від вимивання кольору та пошкоджень після фарбування. Веганський колаген покращує еластичність і гнучкість волосся, зміцнюючи його структуру зсередини та запобігаючи ламкості.",
+        "coutry": "Південна Корея",
+        "category": "шампуні",
+        "price": "1 550.00 ₴",
+        "oldPrice": "1 750.00 ₴",
+        "weight": "300 мл",
+        "vidguki": 10,
+        "images": [
+            "./product-img/img2.svg",
+            "./product-img/prod1 img2.svg",
+            "./product-img/prod2 img2.svg",
+            "./product-img/prod3 img2.svg",
+            "./product-img/prod4 img2.svg"
+        ],
+        "advantagesTags": [
+            "Для фарбованого та освітленого волосся",
+            "Зберігає насиченість кольору",
+            "Надає перламутрового блиску",
+            "Зміцнює волосся",
+            "Зменшує ламкість"
+        ],
+        "activeComponents": [
+            "Комплекс екстрактів білих квітів",
+            "Гідролізовані рослинні протеїни",
+            "Веганський колаген"
+        ],
+        "advantages": [
+            "Комплекс екстрактів білих квітів (гарденія, жасмин, хризантема, ромашка) – забезпечує глибоке зволоження та антиоксидантний захист, допомагає зберегти яскравість фарбованого відтінку та додає блиску.",
+            "Комплекс із 10 гідролізованих рослинних протеїнів – зміцнює волосся, запобігає ламкості, забезпечує прикореневий об'єм.",
+            "Веганський колаген – підтримує гладкість, пружність та еластичність волосся, робить його більш м'яким і доглянутим."
+        ],
+        "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/suxogo-volossia.svg",
+            "Сухого волосся"
+        ],
+        "methodOfUse": "Нанесіть помірну кількість шампуню на долоні, спіньте та рівномірно розподіліть по вологій шкірі голови й волоссю. Масажуйте шкіру голови протягом 2-3 хвилин, після чого ретельно змийте водою. За потреби повторіть. Для досягнення найкращого результату використовуйте разом з іншими засобами лінійки ANILLO Gardenia Veil.",
+        "sertificate": [
+            "./product-img/protestovano-dermatologami.svg",
+            "Протестовано дерматологами",
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/vegan.svg",
+            "Веган",
+            "./product-img/bez-silikoniv.svg",
+            "Без силіконів"
+        ],
+        "ingredients": "Purified Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, 2,3-Butanediol, Sodium Cocoyl Isethionate, Fragrance, Decyl Glucoside, Butylene Glycol, Coco-Glucoside, Glycol Distearate, Sodium Chloride, Lactic Acid, Citric Acid, Polyquaternium-10, Sodium Benzoate, Tetradecene, Cetyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Hexadecene, Trihydroxystearin, Betaine, Hydrogenated Polydecene, Disodium EDTA, 1,2-Hexanediol, Hydrolyzed Soy Extract, Lycium Chinense Fruit Extract, Propylene Glycol Laurate, Sodium Citrate, Hydrolyzed Barley Protein, Hydrolyzed Corn Protein, Hydrolyzed Oat Protein, Hydrolyzed Pea Protein, Hydrolyzed Potato Protein, Hydrolyzed Rice Bran Protein, Hydrolyzed Rice Protein, Hydrolyzed Soy Protein, Hydrolyzed Sweet Almond Protein, Hydrolyzed Wheat Protein, Salicornia Herbacea Extract, Glycerin, Aspergillus Ferment, Matricaria Flower Extract, Chrysanthemum Indicum Flower Extract, Arabian Jasmine Flower Extract, Ethylhexylglycerin, Stellaria Media Extract, Phaeodactylum Tricornutum Extract, Sargassum Fulvellum Extract, Soluble Collagen, Ascorbic Acid, Biotin, Cyanocobalamin, Niacinamide, Riboflavin, Hexyl Cinnamal, Limonene, Citronellol, Hydroxycitronellal"
+    },
+    {
+        "id": 3,
+        "code": "HAIR-003",
+        "brand": "DAVROE",
+        "name": "Smooth Senses Anti-Frizz Shampoo",
+        "shortDescription": "Шампунь для гладкості волосся",
+        "description": "Smooth Senses Anti-Frizz Shampoo – це шампунь, який розгладжує, пом’якшує і зміцнює волосся. Продукт відновлює, зменшує пухнастість, робить пасма слухняними і захищає їх від пошкодження під час термоукладки. Розгладжувальний шампунь глибоко зволожує кутикулу, відновлюючи структуру пасм. Волосся стає еластичним і блискучим, а також менш схильним до випадіння.",
+        "coutry": "Австралія",
+        "category": "шампуні",
+        "price": "1 670.00 ₴",
+        "oldPrice": "1 900.00 ₴",
+        "weight": "325 мл",
+        "vidguki": 9,
+        "images": [
+            "./product-img/img3.svg",
+            "./product-img/prod1 img3.svg",
+            "./product-img/prod2 img3.svg",
+            "./product-img/prod3 img3.svg",
+            "./product-img/prod4 img3.svg"
+        ],
+        "advantagesTags": [
+            "Розгладжує волосся",
+            "Зміцнює пасма",
+            "Зменшує пухнастість",
+            "Пом’якшує волосся",
+            "Додає блиску"
+        ],
+        "activeComponents": [
+            "Плоди лохини",
+            "Протеїни рису",
+            "Протеїни кіноа"
+        ],
+        "advantages": [
+            "Лохина пом'якшує, розгладжує, додає сяючого блиску нормальному та сухому волоссю.",
+            "Протеїни рису та кіноа допомагають відновити, зміцнити та захистити пасма."
+        ],
+        "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/suxogo-volossia.svg",
+            "Сухого волосся",
+            "./product-img/vsix-tipiv-volossia.svg",
+            "Всіх типів волосся"
+        ],
+        "methodOfUse": "Нанесіть засіб на вологе волосся від коренів до кінчиків масажними рухами. Залиште на 2 хвилини перед змиванням. Повторіть за необхідності. Поєднуйте з кондиціонером Smooth Senses Anti-Frizz для м’якого і блискучого волосся.",
+        "sertificate": [
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/vegan.svg",
+            "Веган",
+            "./product-img/bez-sulfativ.svg",
+            "Без сульфатів"
+        ],
+        "ingredients": "Aqua, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Sodium Lauryl Sulfoacetate, Glycereth-26, Cocamidopropylamine Oxide, Sodium Cocoyl Isethionate, Lactic Acid, Amodimethicone, PEG-7 Glyceryl Cocoate, PEG- 150 Pentaerythrityl Tetrastearate, Tocopheryl Acetate, Polyquaternium-10, Phenoxyethanol, Sodium Chloride, Parfum, Quaternium-80, Propylene Glycol, Polyquaternium-7, Tetrasodium Glutamate Diacetate, Glycerin, Hydrolyzed Quinoa, Benzoic Acid, Cocodimonium Hydroxypropyl Hydrolyzed Rice Protein, Dehydroacetic Acid, Sodium Benzoate, Camellia Sinensis Leaf Extract, Olea Europaea Leaf Extract, Terminalia Ferdinandiana Fruit Extract, Sodium Acetate, Benzyl Alcohol, Isopropyl Alcohol, Aloe Barbadensis Leaf Extract, Vaccinium Angustifolium Fruit Extract, Vitis Vinifera Seed Extract, Ethylhexylglycerin, Citric Acid, Potassium Sorbate, Malic Acid, Limonene."
+    },
+    {
+        "id": 4,
+        "code": "HAIR-004",
+        "brand": "PERRICONE MD",
+        "name": "Haircare Triple Keratin Repair Shampoo",
+        "shortDescription": "Зміцнювальний та відновлювальний шампунь для волосся",
+        "description": "PERRICONE MD Haircare Triple Keratin Repair Shampoo – зміцнювальний та відновлювальний шампунь для сухого й пошкодженого волосся, що допомагає м’яко очистити шкіру голови та підтримати гладкість, м’якість і природний блиск довжини. Формула делікатно очищає волосся та шкіру голови від забруднень і залишків стайлінгу, не пересушуючи його. Активні компоненти зміцнюють структуру, зменшують ламкість і сприяють підтримці еластичності та пружності. Шампунь підходить для волосся, яке стало сухим, ламким або втратило природний об’єм через фарбування, укладання чи вплив зовнішніх факторів. При регулярному використанні воно виглядає більш гладким, блискучим і доглянутим. Легка текстура добре піниться, рівномірно розподіляється по волоссю та легко змивається.",
+        "coutry": "США",
+        "category": "шампуні",
+        "price": "1 750.00 ₴",
+        "oldPrice": "1 950.00 ₴",
+        "weight": "300 мл",
+        "vidguki": 19,
+        "images": [
+            "./product-img/img4.svg",
+            "./product-img/prod1 img4.svg",
+            "./product-img/prod2 img4.svg",
+            "./product-img/prod3 img4.svg",
+            "./product-img/prod4 img4.svg"
+        ],
+        "advantagesTags": [
+            "Розроблений для сухого та пошкодженого волосся",
+            "Делікатно очищає шкіру голови",
+            "Зміцнює структуру волосся",
+            "Підтримує пружність та еластичність",
+            "Зберігає природний блиск"
+        ],
+        "activeComponents": [
+            "Next-Generation Keratin Complex",
+            "Encapsulated Bio-Tech Matrix",
+            "Гіалуронова кислота",
+            "Пантенол"
+        ],
+        "advantages": [
+            "Next-Generation Keratin Complex – комплекс із трьох форм кератину, що зміцнює волосся, зменшує ламкість і створює захисний бар’єр на його поверхні.",
+            "Encapsulated Bio-Tech Matrix – амінокислотний комплекс, що підтримує відновлення пошкоджених ділянок та сприяє еластичності й щільності волосся.",
+            "Гіалуронова кислота та пантенол – інтенсивно зволожують волосся, утримують вологу та роблять його більш м’яким і шовковистим."
+        ],
+        "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/vsikh-tipiv-volossia.svg",
+            "Всіх типів волосся",
+            "./product-img/suxogo-volossia.svg",
+            "Сухого волосся"
+        ],
+        "methodOfUse": "Нанесіть шампунь на вологе волосся та шкіру голови, помасажуйте до утворення піни та ретельно змийте. За потреби повторіть процедуру. Для найкращого результату використовуйте разом із Triple Keratin Repair Conditioner",
+        "sertificate": [
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/bez-sulfativ.svg",
+            "Без сульфатів",
+            "./product-img/bez-gliutenu.svg",
+            "Без глютену",
+            "./product-img/bez-mineralnix-olii.svg",
+            "Без мінеральних олій"
+        ],
+        "ingredients": "Water/Aqua/Eau, Sodium Cocoyl Isethionate, Sodium Lauroyl Methyl Isethionate, Dimethicone, Disteareth-75 IPDI, Cocamidopropyl Betaine, Glycerin, 1,2-hexanediol, Glycol Distearate, Fragrance (Parfum), Polysorbate 20, Coconut Acid, Caprylyl Glycol, Panthenol, Trisodium Ethylenediamine Disuccinate, Sodium Isethionate, Cocamide MIPA, Hydrolyzed Lupine Protein, Peg-120 Methyl Glucose Dioleate, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-7, Wheat Amino Acids, Soy Amino Acids, Sodium Benzoate, Cocos Nucifera (Coconut) Fruit Water, Tetrasodium Glutamate Diacetate, Arginine HCL, Serine, Threonine, Hydrolyzed Hyaluronic Acid, Phenoxyethanol, Hydrolyzed Keratin, Keratin, Benzyl Alcohol, Lactic Acid, Argania Spinosa Kernel Oil, Fumaric Acid, Oxidized Keratin, Sodium Hyaluronate, Sodium Hydroxide, Potassium Sorbate, Citric Acid, Benzoic Acid, Pentylene Glycol, Tocopherol, Levulinic Acid, Glyceryl Caprylate, Hydrolyzed Ceratonia Siliqua Seed Extract, Arginine, Zea Mays (Corn) Starch, Palmaria Palmata Extract, Xanthan Gum, Alpha-Isomethyl Ionone, Benzyl Salicylate, Hydroxycitronellal"
+    },
+    {
+        "id": 5,
+        "code": "HAIR-005",
+        "brand": "KEVIN.MURPHY",
+        "name": "Angel.Wash",
+        "shortDescription": "Відновлювальний шампунь для тонкого та ослабленого волосся",
+        "description": "KEVIN.MURPHY ANGEL.WASH – відновлювальний шампунь для тонкого та ослабленого волосся, що додає об’єм, зменшує ламкість і робить його більш щільним і пружним на дотик без обтяження, зберігаючи яскравість кольору. Формула делікатно очищає шкіру голови та довжину, не пересушуючи її, і підтримує природний рівень зволоження. Після миття волосся виглядає більш легким, піднятим біля коренів і рухливим, без втрати об’єму. Комбінація антиоксидантів, протеїнів і рослинних компонентів сприяє зміцненню волосся, зменшенню ламкості та покращенню його еластичності. При регулярному використанні воно виглядає більш доглянутим, гладким і природно блискучим без відчуття важкості. Шампунь підходить для всіх типів волосся, зокрема для тонкого, ослабленого та фарбованого.",
+        "coutry": "Австралія",
+        "category": "шампуні",
+        "price": "1 880.00 ₴",
+        "oldPrice": "2 750.00 ₴",
+        "weight": [
+            "250 мл",
+            "500 мл",
+            "1000 мл"
+        ],
+        "vidguki": 12,
+        "images": [
+            "./product-img/img5.svg",
+            "./product-img/prod1 img5.svg",
+            "./product-img/prod2 img5.svg",
+            "./product-img/prod3 img5.svg",
+            "./product-img/prod4 img5.svg"
+        ],
+        "advantagesTags": [
+            "Підходить для всіх типів волосся",
+            "Додає об’єм і щільність",
+            "Не обтяжує та зберігає легкість",
+            "Зменшує ламкість",
+            "Підвищує еластичність та пружність"
+        ],
+        "activeComponents": [
+            "Гідролізовані вівсяні протеїни",
+            "Екстракт лаванди",
+            "Олія мандарина",
+            "Екстракт зеленого чаю"
+        ],
+        "advantages": [
+            "Гідролізовані протеїни вівса – надають волоссю щільності та пружності, не обтяжуючи його.",
+            "Екстракт лаванди – заспокоює шкіру голови та створює відчуття комфорту під час очищення.",
+            "Олія мандарина – надає природного блиску, підтримує тонус волосся та захищає від впливу зовнішніх факторів.",
+            "Екстракт зеленого чаю – покращує еластичність волосся та підтримує його зволоженість."
+        ],
+        "recommended": [
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/vsix-tipiv-volossia.svg",
+            "Всіх типів волосся"
+        ],
+        "methodOfUse": "Нанесіть невелику кількість шампуню на вологе волосся та шкіру голови, м’яко помасажуйте до утворення піни. Ретельно змийте теплою водою. За потреби повторіть. Для кращого результату використовуйте разом із кондиціонером ANGEL.RINSE.",
+        "sertificate": [
+            "./product-img/bez-sulfativ.svg",
+            "Без сульфатів",
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/vegan.svg",
+            "Веган"
+        ],
+        "ingredients": "Water (Aqua) (Eau), Sodium Cocoyl Isethionate, Cocamidopropylamine Oxide, Cocamidopropyl Hydroxysultaine, Glycol Distearate, Glycerin, Tocopheryl Acetate, Ascorbic Acid, Lavandula Angustifolia (Lavender) Flower Extract*, Citrus Reticulata (Tangerine) Peel Oil, Rosa Canina Fruit Oil, Hydrolyzed Oat Protein, Chamomilla Recutita (Matricaria) Flower Extract, Helianthus Annuus (Sunflower) Seed Extract, Camellia Sinensis Leaf Extract, Wheat Amino Acids, Melanin, Lactic Acid, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydrolyzed Oats, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Caprylyl Glycol, Pentylene Glycol, Butylene Glycol, Guar Hydroxypropyltrimonium Chloride, Superoxide Dismutase, Lauryl Alcohol, Glycereth-26, Decyl Glucoside, Sodium Lauryl Sulfoacetate, Sodium Lauroyl Sarcosinate, Disodium Laureth Sulfosuccinate, Polyquaternium-7, Polyquaternium-11, Polyquaternium-55, Malic Acid, Disodium EDTA, Tetrasodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Leuconostoc/Radish Root Ferment Filtrate, Citric Acid, Fragrance (Parfum), Benzyl Benzoate, Limonene, Red 33 (CI 17200), Blue 1 (CI 42090)"
+    }
+]

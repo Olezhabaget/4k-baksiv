@@ -401,6 +401,7 @@ header button {
     top: 300px;
     width: 1512px;
     height: 238px;
+    display: none;
 }
 
 .div-14{
