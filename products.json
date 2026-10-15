@@ -1,5 +1,5 @@
 [
-   {
+    {
         "id": 1,
         "code": "HAIR-001",
         "brand": "REVITALASH",
@@ -234,61 +234,286 @@
     {
         "id": 5,
         "code": "HAIR-005",
-        "brand": "KEVIN.MURPHY",
-        "name": "Angel.Wash",
-        "shortDescription": "Відновлювальний шампунь для тонкого та ослабленого волосся",
-        "description": "KEVIN.MURPHY ANGEL.WASH – відновлювальний шампунь для тонкого та ослабленого волосся, що додає об’єм, зменшує ламкість і робить його більш щільним і пружним на дотик без обтяження, зберігаючи яскравість кольору. Формула делікатно очищає шкіру голови та довжину, не пересушуючи її, і підтримує природний рівень зволоження. Після миття волосся виглядає більш легким, піднятим біля коренів і рухливим, без втрати об’єму. Комбінація антиоксидантів, протеїнів і рослинних компонентів сприяє зміцненню волосся, зменшенню ламкості та покращенню його еластичності. При регулярному використанні воно виглядає більш доглянутим, гладким і природно блискучим без відчуття важкості. Шампунь підходить для всіх типів волосся, зокрема для тонкого, ослабленого та фарбованого.",
-        "coutry": "Австралія",
+        "brand": "TANGLE TEEZER",
+        "name": "Thickening Shampoo",
+        "shortDescription": "Лікувальний шампунь для збільшення густоти волосся",
+        "description": "Thickening Shampoo – це безсульфатний шампунь для волосся, що потовщує пасма, захищає їх від пошкоджень та зміцнює корені. Засіб працює на основі фітоформули з терапевтичними компонентами, які турбуються про стан волосся та шкіри голови. Шампунь покращує здоровʼя шкіри голови, допомагає зміцнити пасма та захистити від зовнішніх чинників. Після застосування збільшується товщина волосся, воно виглядає більш обʼємним та густим. Також Thickening Shampoo додає волоссю сяйва та здорового вигляду. Продукт зберігає колір фарбованого волосся та не містить сульфатів.",
+        "coutry": "Італія",
         "category": "шампуні",
-        "price": "1 880.00 ₴",
-        "oldPrice": "2 750.00 ₴",
-        "weight": [
-            "250 мл",
-            "500 мл",
-            "1000 мл"
-        ],
-        "vidguki": 12,
+        "price": "1 250.00 ₴",
+        "oldPrice": "1 750.00 ₴",
+        "weight": "250 мл",
+        "vidguki": 26,
         "images": [
-            "./product-img/img5.svg",
-            "./product-img/prod1 img5.svg",
-            "./product-img/prod2 img5.svg",
-            "./product-img/prod3 img5.svg",
-            "./product-img/prod4 img5.svg"
+            "./product-img/img1.svg",
+            "./product-img/prod1 img1.svg",
+            "./product-img/prod2 img1.svg",
+            "./product-img/prod3 img1.svg",
+            "./product-img/prod4 img1.svg"
         ],
         "advantagesTags": [
-            "Підходить для всіх типів волосся",
-            "Додає об’єм і щільність",
-            "Не обтяжує та зберігає легкість",
-            "Зменшує ламкість",
-            "Підвищує еластичність та пружність"
+            "Потовщує волосину",
+            "Додає природного блиску",
+            "Зміцнює корені і кутикулу",
+            "Захищає пасма від пошкоджень",
+            "Збільшує густоту"
         ],
         "activeComponents": [
-            "Гідролізовані вівсяні протеїни",
-            "Екстракт лаванди",
-            "Олія мандарина",
-            "Екстракт зеленого чаю"
+            "Листя мушмули японської",
+            "Кора верби",
+            "Біотин",
+            "Пантенол"
         ],
         "advantages": [
-            "Гідролізовані протеїни вівса – надають волоссю щільності та пружності, не обтяжуючи його.",
-            "Екстракт лаванди – заспокоює шкіру голови та створює відчуття комфорту під час очищення.",
-            "Олія мандарина – надає природного блиску, підтримує тонус волосся та захищає від впливу зовнішніх факторів.",
-            "Екстракт зеленого чаю – покращує еластичність волосся та підтримує його зволоженість."
+            "Листя мушмули японської – це компонент, який відповідає за збільшення товщини і густоти волосся.",
+            "Кора верби – делікатно відлущує ороговілі клітини шкіри голови.",
+            "Біотин – додає волоссю обʼєму, тому після використання воно виглядає густішим.",
+            "Пантенол – зволожує і надає сяйва."
         ],
         "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
             "./product-img/farbovanogo-volossia.svg",
             "Фарбованого волосся",
-            "./product-img/vsix-tipiv-volossia.svg",
-            "Всіх типів волосся"
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
         ],
-        "methodOfUse": "Нанесіть невелику кількість шампуню на вологе волосся та шкіру голови, м’яко помасажуйте до утворення піни. Ретельно змийте теплою водою. За потреби повторіть. Для кращого результату використовуйте разом із кондиціонером ANGEL.RINSE.",
+        "methodOfUse": "Нанесіть шампунь на вологе волосся та помасажуйте круговими рухами. Залиште засіб на 1-2 хвилини та змийте великою кількістю води. Поєднуйте з лікувальним кондиціонером для збільшення густоти волосся Thickening Conditioner.",
         "sertificate": [
-            "./product-img/bez-sulfativ.svg",
-            "Без сульфатів",
+            "./product-img/protestovano-dermatologami.svg",
+            "Протестовано дерматологами",
             "./product-img/ne-testujetsia-na-tvarinax.svg",
             "Не тестується на тваринах",
             "./product-img/vegan.svg",
             "Веган"
         ],
-        "ingredients": "Water (Aqua) (Eau), Sodium Cocoyl Isethionate, Cocamidopropylamine Oxide, Cocamidopropyl Hydroxysultaine, Glycol Distearate, Glycerin, Tocopheryl Acetate, Ascorbic Acid, Lavandula Angustifolia (Lavender) Flower Extract*, Citrus Reticulata (Tangerine) Peel Oil, Rosa Canina Fruit Oil, Hydrolyzed Oat Protein, Chamomilla Recutita (Matricaria) Flower Extract, Helianthus Annuus (Sunflower) Seed Extract, Camellia Sinensis Leaf Extract, Wheat Amino Acids, Melanin, Lactic Acid, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydrolyzed Oats, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Caprylyl Glycol, Pentylene Glycol, Butylene Glycol, Guar Hydroxypropyltrimonium Chloride, Superoxide Dismutase, Lauryl Alcohol, Glycereth-26, Decyl Glucoside, Sodium Lauryl Sulfoacetate, Sodium Lauroyl Sarcosinate, Disodium Laureth Sulfosuccinate, Polyquaternium-7, Polyquaternium-11, Polyquaternium-55, Malic Acid, Disodium EDTA, Tetrasodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Leuconostoc/Radish Root Ferment Filtrate, Citric Acid, Fragrance (Parfum), Benzyl Benzoate, Limonene, Red 33 (CI 17200), Blue 1 (CI 42090)"
+        "ingredients": "Aqua, Sodium C14-16 Olein Sulfonate, Cocamidopropyl Hydroxysultaine, Ppg-2 Hydroxyethyl Coco/Isostearamide, Cocamidopropylamine Oxide, Peg-7 Glyceryl Cocoate, Sodium Lauroyl Sarcosinate, Peg-150 Pentaerythrityl Tetrastearate, Phenoxyethanol, Peg-60 Almond Glycerides, Parfum, Polyquaternium-39, Peg-6 Caprylic/Capric Glycerides, Panthenol, Menthol, Propanediol, Ethyl Menthane Carboxamide, Panthenyl Hydroxypropyl Steardimonium Chloride, Chlorphenesin, Disodium Laureth Sulfosuccinate, Guar Hydroxypropyltrimonium, Chloride, Caprylyl Glycol, Sodium Lauryl Sulfoacetate, Glycerin, Salix Alba Bark Extract, Butylene Glycol, Urea, Disodium Phosphate, Citric Acid, Biotin, Eriobotrya Japonica Extract, Limonene Linalool, Geraniol."
+    },
+    {
+        "id": 6,
+        "code": "HAIR-006",
+        "brand": "REVITALASH",
+        "name": "Thickening Shampoo",
+        "shortDescription": "Лікувальний шампунь для збільшення густоти волосся",
+        "description": "Thickening Shampoo – це безсульфатний шампунь для волосся, що потовщує пасма, захищає їх від пошкоджень та зміцнює корені. Засіб працює на основі фітоформули з терапевтичними компонентами, які турбуються про стан волосся та шкіри голови. Шампунь покращує здоровʼя шкіри голови, допомагає зміцнити пасма та захистити від зовнішніх чинників. Після застосування збільшується товщина волосся, воно виглядає більш обʼємним та густим. Також Thickening Shampoo додає волоссю сяйва та здорового вигляду. Продукт зберігає колір фарбованого волосся та не містить сульфатів.",
+        "coutry": "Італія",
+        "category": "шампуні",
+        "price": "1 250.00 ₴",
+        "oldPrice": "1 750.00 ₴",
+        "weight": "250 мл",
+        "vidguki": 26,
+        "images": [
+            "./product-img/img1.svg",
+            "./product-img/prod1 img1.svg",
+            "./product-img/prod2 img1.svg",
+            "./product-img/prod3 img1.svg",
+            "./product-img/prod4 img1.svg"
+        ],
+        "advantagesTags": [
+            "Потовщує волосину",
+            "Додає природного блиску",
+            "Зміцнює корені і кутикулу",
+            "Захищає пасма від пошкоджень",
+            "Збільшує густоту"
+        ],
+        "activeComponents": [
+            "Листя мушмули японської",
+            "Кора верби",
+            "Біотин",
+            "Пантенол"
+        ],
+        "advantages": [
+            "Листя мушмули японської – це компонент, який відповідає за збільшення товщини і густоти волосся.",
+            "Кора верби – делікатно відлущує ороговілі клітини шкіри голови.",
+            "Біотин – додає волоссю обʼєму, тому після використання воно виглядає густішим.",
+            "Пантенол – зволожує і надає сяйва."
+        ],
+        "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
+        ],
+        "methodOfUse": "Нанесіть шампунь на вологе волосся та помасажуйте круговими рухами. Залиште засіб на 1-2 хвилини та змийте великою кількістю води. Поєднуйте з лікувальним кондиціонером для збільшення густоти волосся Thickening Conditioner.",
+        "sertificate": [
+            "./product-img/protestovano-dermatologami.svg",
+            "Протестовано дерматологами",
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/vegan.svg",
+            "Веган"
+        ],
+        "ingredients": "Aqua, Sodium C14-16 Olein Sulfonate, Cocamidopropyl Hydroxysultaine, Ppg-2 Hydroxyethyl Coco/Isostearamide, Cocamidopropylamine Oxide, Peg-7 Glyceryl Cocoate, Sodium Lauroyl Sarcosinate, Peg-150 Pentaerythrityl Tetrastearate, Phenoxyethanol, Peg-60 Almond Glycerides, Parfum, Polyquaternium-39, Peg-6 Caprylic/Capric Glycerides, Panthenol, Menthol, Propanediol, Ethyl Menthane Carboxamide, Panthenyl Hydroxypropyl Steardimonium Chloride, Chlorphenesin, Disodium Laureth Sulfosuccinate, Guar Hydroxypropyltrimonium, Chloride, Caprylyl Glycol, Sodium Lauryl Sulfoacetate, Glycerin, Salix Alba Bark Extract, Butylene Glycol, Urea, Disodium Phosphate, Citric Acid, Biotin, Eriobotrya Japonica Extract, Limonene Linalool, Geraniol."
+    },
+    {
+        "id": 1,
+        "code": "HAIR-001",
+        "brand": "REVITALASH",
+        "name": "Thickening Shampoo",
+        "shortDescription": "Лікувальний шампунь для збільшення густоти волосся",
+        "description": "Thickening Shampoo – це безсульфатний шампунь для волосся, що потовщує пасма, захищає їх від пошкоджень та зміцнює корені. Засіб працює на основі фітоформули з терапевтичними компонентами, які турбуються про стан волосся та шкіри голови. Шампунь покращує здоровʼя шкіри голови, допомагає зміцнити пасма та захистити від зовнішніх чинників. Після застосування збільшується товщина волосся, воно виглядає більш обʼємним та густим. Також Thickening Shampoo додає волоссю сяйва та здорового вигляду. Продукт зберігає колір фарбованого волосся та не містить сульфатів.",
+        "coutry": "Італія",
+        "category": "шампуні",
+        "price": "1 250.00 ₴",
+        "oldPrice": "1 750.00 ₴",
+        "weight": "250 мл",
+        "vidguki": 26,
+        "images": [
+            "./product-img/img1.svg",
+            "./product-img/prod1 img1.svg",
+            "./product-img/prod2 img1.svg",
+            "./product-img/prod3 img1.svg",
+            "./product-img/prod4 img1.svg"
+        ],
+        "advantagesTags": [
+            "Потовщує волосину",
+            "Додає природного блиску",
+            "Зміцнює корені і кутикулу",
+            "Захищає пасма від пошкоджень",
+            "Збільшує густоту"
+        ],
+        "activeComponents": [
+            "Листя мушмули японської",
+            "Кора верби",
+            "Біотин",
+            "Пантенол"
+        ],
+        "advantages": [
+            "Листя мушмули японської – це компонент, який відповідає за збільшення товщини і густоти волосся.",
+            "Кора верби – делікатно відлущує ороговілі клітини шкіри голови.",
+            "Біотин – додає волоссю обʼєму, тому після використання воно виглядає густішим.",
+            "Пантенол – зволожує і надає сяйва."
+        ],
+        "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
+        ],
+        "methodOfUse": "Нанесіть шампунь на вологе волосся та помасажуйте круговими рухами. Залиште засіб на 1-2 хвилини та змийте великою кількістю води. Поєднуйте з лікувальним кондиціонером для збільшення густоти волосся Thickening Conditioner.",
+        "sertificate": [
+            "./product-img/protestovano-dermatologami.svg",
+            "Протестовано дерматологами",
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/vegan.svg",
+            "Веган"
+        ],
+        "ingredients": "Aqua, Sodium C14-16 Olein Sulfonate, Cocamidopropyl Hydroxysultaine, Ppg-2 Hydroxyethyl Coco/Isostearamide, Cocamidopropylamine Oxide, Peg-7 Glyceryl Cocoate, Sodium Lauroyl Sarcosinate, Peg-150 Pentaerythrityl Tetrastearate, Phenoxyethanol, Peg-60 Almond Glycerides, Parfum, Polyquaternium-39, Peg-6 Caprylic/Capric Glycerides, Panthenol, Menthol, Propanediol, Ethyl Menthane Carboxamide, Panthenyl Hydroxypropyl Steardimonium Chloride, Chlorphenesin, Disodium Laureth Sulfosuccinate, Guar Hydroxypropyltrimonium, Chloride, Caprylyl Glycol, Sodium Lauryl Sulfoacetate, Glycerin, Salix Alba Bark Extract, Butylene Glycol, Urea, Disodium Phosphate, Citric Acid, Biotin, Eriobotrya Japonica Extract, Limonene Linalool, Geraniol."
+    },
+    {
+        "id": 2,
+        "code": "HAIR-002",
+        "brand": "EMI JAY",
+        "name": "Super Bloom Clip in Coconut",
+        "shortDescription": "Заколка-краб для волосся",
+        "description": "Знижка -30% на обрані товари бренду.",
+        "category": "Аксесуари",
+        "usefor": "Використовуйте засіб за призначенням.",
+        "price": "630.00 ₴",
+        "oldPrice": "900.00 ₴",
+        "vidguki": 0,
+        "coutry": "США",
+        "images": [
+            "./product-img/img2.svg",
+            "./product-img/prod1 img2.svg",
+            "./product-img/prod2 img2.svg",
+            "./product-img/prod3 img2.svg",
+            "./product-img/prod4 img2.svg"
+        ],
+        "advantagesTags": [
+            "Надійно фіксує",
+            "Комфорт в носінні",
+            "Не пошкоджує волосся",
+            "Виготовлена з органічних матеріалів"
+        ],
+        "recommended": [
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/suxogo-volossia.svg",
+            "Сухого волосся"
+        ],
+        "methodOfUse": "hair",
+        "sertificate": [
+            "Екологічні матеріал"
+        ],
+        "morediscription": [
+            "Сертифікована продукція від офіційних партнерів",
+            "Безкоштовна доставка на суму від 3000 ₴",
+            "Відправлення в день замовлення (до 15:00)",
+            "Оплата картою на сайті або накладений платіж",
+            "Покупка частинами від monobank",
+            "Оплата частинами від ПриватБанк",
+            "Офлайн-магазини: Київ (ТРЦ Gulliver, ТРЦ Respublika Park), Львів (ТРЦ Victoria Gardens)"
+        ],
+        "infoproduct": [
+            "EMI JAY Super Bloom Clip in Coconut – заколка-краб для волосся.",
+            "заколка-краб надійно фіксує локони. Ідеально підходить для низького пучка або напіврозпущеного волосся. Не стягує та не викликає головного болю під час використання. Заполіровані деталі унеможливлюють пошкодження та чіпляння локонів під час укладання.",
+            "Аксесуар для волосся створений на основі ацетату целюлози – гнучкого та міцного високоякісного матеріалу, який не містить нафти. Виготовляється з бавовни, деревини та целюлози.",
+            "Підходить для всіх типів волосся."
+        ],
+        "recomendfor": [
+            "Всіх типів волосся"
+        ],
+        "sklad": "Custom Biodegradable Acetate. *Виробник може змінювати склад засобів для покращення формули. Найновіший список компонентів ви завжди можете дізнатися на пакуванні продукту."
+    },
+    {
+        "id": 2,
+        "code": "HAIR-002",
+        "brand": "TANGLE TEEZER",
+        "name": "The Complete Carebrush Straight To Wavy",
+        "shortDescription": "Щітка для прямого та хвилястого волосся",
+        "description": "TANGLE TEEZER The Complete Carebrush Straight to Wavy – багатофункціональна щітка, спеціально розроблена для прямого та хвилястого волосся. Поєднує чотири функції: розплутує та розгладжує волосся, надає йому природного блиску й м’яко масажує шкіру голови.",
+        "coutry": "Великобританія",
+        "category": "Аксесуари для волосся",
+        "price": "1 240.00 ₴",
+        "vidguki": 0,
+        "images": [
+            "./product-img/img6.svg",
+            "./product-img/prod1 img6.svg",
+            "./product-img/prod2 img6.svg",
+            "./product-img/prod3 img6.svg",
+            "./product-img/prod4 img6.svg"
+        ],
+        "advantagesTags": [
+            "Для прямого та хвилястого волосся",
+            "Легко розплутує вузлики",
+            "Мінімізує ламкість",
+            "Розгладжує волосся",
+            "Надає природного блиску",
+            "М’яко масажує шкіру голови",
+            "Для сухого та вологого волосся"
+        ],
+        "vidtinok": [
+            "Glistening Jade",
+            "Glossed Raspberry",
+            "Halo White",
+            "Satin Rose"
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-volossia.svg",
+            "Всіх типів волосся",
+            "./product-img/vologogo-volossia.svg",
+            "Вологого волосся",
+            "./product-img/suxogo-volossia.svg",
+            "Сухого волосся"
+        ],
+        "methodOfUse": [
+            "Використовуйте щітку на сухому або вологому волоссі для розплутування та розчісування. Не використовуйте щітку разом із феном або іншими гарячими інструментами.",
+            "Після використання видаляйте волосся із зубців. За потреби промивайте щітку теплою водою з невеликою кількістю м’якого мила або шампуню та залишайте висихати природним шляхом зубцями донизу або на боці."
+        ],
+        "infoproductt": [
+            "TANGLE TEEZER The Complete Carebrush Straight to Wavy – багатофункціональна щітка, спеціально розроблена для прямого та хвилястого волосся. Поєднує чотири функції: розплутує та розгладжує волосся, надає йому природного блиску й м’яко масажує шкіру голови.",
+            "В основі щітки – технологія нового покоління з дворівневими пружними зубцями Medium-Flex, створеними з урахуванням особливостей прямого та хвилястого волосся. Зубці розташовані по діагоналі, завдяки чому волосся плавно проходить крізь щітку з мінімальним опором, а процес розчісування стає комфортнішим.",
+            "Подовжені овальні зубці спрямовують волосся під час розчісування та розгладжують кутикулу, надаючи пасмам гладкості й блиску. Водночас вони м’яко масажують шкіру голови. Коротші трикутні зубці легко розплутують вузлики та допомагають мінімізувати ламкість волосся.",
+            "Збільшена робоча поверхня захоплює більше волосся за один рух. Підходить для використання на сухому та вологому волоссі.",
+            "Коли варто обрати цю щітку:"
+        ]
     }
 ]
