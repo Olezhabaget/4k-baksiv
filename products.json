@@ -348,7 +348,7 @@
         "ingredients": "Aqua, Sodium C14-16 Olein Sulfonate, Cocamidopropyl Hydroxysultaine, Ppg-2 Hydroxyethyl Coco/Isostearamide, Cocamidopropylamine Oxide, Peg-7 Glyceryl Cocoate, Sodium Lauroyl Sarcosinate, Peg-150 Pentaerythrityl Tetrastearate, Phenoxyethanol, Peg-60 Almond Glycerides, Parfum, Polyquaternium-39, Peg-6 Caprylic/Capric Glycerides, Panthenol, Menthol, Propanediol, Ethyl Menthane Carboxamide, Panthenyl Hydroxypropyl Steardimonium Chloride, Chlorphenesin, Disodium Laureth Sulfosuccinate, Guar Hydroxypropyltrimonium, Chloride, Caprylyl Glycol, Sodium Lauryl Sulfoacetate, Glycerin, Salix Alba Bark Extract, Butylene Glycol, Urea, Disodium Phosphate, Citric Acid, Biotin, Eriobotrya Japonica Extract, Limonene Linalool, Geraniol."
     },
     {
-        "id": 1,
+        "id": 7,
         "code": "HAIR-001",
         "brand": "REVITALASH",
         "name": "Thickening Shampoo",
@@ -406,7 +406,7 @@
         "ingredients": "Aqua, Sodium C14-16 Olein Sulfonate, Cocamidopropyl Hydroxysultaine, Ppg-2 Hydroxyethyl Coco/Isostearamide, Cocamidopropylamine Oxide, Peg-7 Glyceryl Cocoate, Sodium Lauroyl Sarcosinate, Peg-150 Pentaerythrityl Tetrastearate, Phenoxyethanol, Peg-60 Almond Glycerides, Parfum, Polyquaternium-39, Peg-6 Caprylic/Capric Glycerides, Panthenol, Menthol, Propanediol, Ethyl Menthane Carboxamide, Panthenyl Hydroxypropyl Steardimonium Chloride, Chlorphenesin, Disodium Laureth Sulfosuccinate, Guar Hydroxypropyltrimonium, Chloride, Caprylyl Glycol, Sodium Lauryl Sulfoacetate, Glycerin, Salix Alba Bark Extract, Butylene Glycol, Urea, Disodium Phosphate, Citric Acid, Biotin, Eriobotrya Japonica Extract, Limonene Linalool, Geraniol."
     },
     {
-        "id": 2,
+        "id": 8,
         "code": "HAIR-002",
         "brand": "EMI JAY",
         "name": "Super Bloom Clip in Coconut",
@@ -515,5 +515,692 @@
             "Збільшена робоча поверхня захоплює більше волосся за один рух. Підходить для використання на сухому та вологому волоссі.",
             "Коли варто обрати цю щітку:"
         ]
+    },
+    {
+        "id": 10,
+        "code": "",
+        "brand": "DYSON",
+        "name": "Supersonic Travel HD19 Ceramic Pink/Rose Gold  ",
+        "shortDescription": "",
+        "description": "DYSON Supersonic Travel HD19 – компактний дорожній фен для швидкого сушіння та укладання волосся з автоматичною адаптацією до напруги та інтелектуальним контролем температури.Легкий і компактний фен створений для комфортного використання вдома та в подорожах. Він на 32% менший і на 25% легший порівняно з класичним Dyson Supersonic, при цьому забезпечує потужний потік повітря для швидкого сушіння волосся.Інтелектуальний контроль температури допомагає запобігати перегріванню волосся та підтримувати його природний блиск.Інноваційний фен автоматично адаптується до напруги електромережі в діапазоні 100–240 В, що дозволяє використовувати пристрій у більшості країн світу без додаткових налаштувань.Dyson Supersonic Travel HD19 має два налаштування швидкості: високий для швидкого сушіння та низький для більш делікатного догляду за волоссям. Також пристрій підтримує три температурні режими та режим подачі прохолодного повітря. Вони призначені для швидкого та делікатного сушіння волосся, а також для фіксації укладки.Фен сумісний з насадками Dyson Supersonic і Dyson Supersonic Nural. У комплект входить насадка-концентратор для точного спрямування повітряного потоку під час сушіння та укладання.Фен важить лише 331 г, що робить його зручним для подорожей, відряджень і щоденного використання.",
+        "coutry": "Великобританія",
+        "category": "Фен для волосся",
+        "price": "15 990.00 ₴",
+        "vidguki": 0,
+        "images": [
+            "",
+            "",
+            ""
+        ],
+        "advantagesTags": [
+            "Підходить для різних типів волосся",
+            "Забезпечує швидке сушіння",
+            "Автоматично регулює температуру",
+            "Фіксує укладку холодним обдувом",
+            "Автоматично адаптується до напруги 100-240 В",
+            "Підходить для використання під час подорожей",
+            "Має компактний і легкий корпус",
+            "Сумісний з насадками Dyson Supersonic",
+            "Важить лише 331 г"
+        ],
+        "methodOfUse": "Підключіть фен до мережі та встановіть насадку-концентратор. Оберіть бажаний температурний режим і швидкість потоку повітря відповідно до типу волосся та бажаного результату укладання.Тримайте фен на відстані 15–20 см від волосся та спрямовуйте потік повітря від коренів до кінчиків. Для фіксації укладки використовуйте режим подачі прохолодного повітря.",
+        "sertificate": [
+            "Сертифікована продукція від офіційних партнерів",
+            "Безкоштовна доставка на суму від 3000 ₴",
+            "Відправлення в день замовлення (до 15:00)",
+            "Оплата картою на сайті або накладений платіж",
+            "Покупка частинами від monobank",
+            "Оплата частинами від ПриватБанк",
+            "Офлайн-магазини: Київ (ТРЦ Gulliver, ТРЦ Respublika Park), Львів (ТРЦ Victoria Gardens)"
+        ]
+    },
+    {
+            "id": 11,
+            "code": "",
+            "brand": "BJÖRN AXÉN",
+            "name": "Hair Towel Wrap",
+            "shortDescription": "Тюрбан для волосся",
+            "description": "Після миттяHair Towel Wrap – тюрбан для швидкого та делікатного сушіння волосся після миття.Виготовлений із 100% мікрофібри, він ефективно вбирає вологу, зменшує час сушіння та мінімізує пухнастість і електризацію волосся.Тюрбан легко фіксується на голові за допомогою застібки на ґудзик, що дозволяє зручно закрутити волосся, не обтяжуючи його, та зберегти природну структуру пасм.Він підходить для всіх типів волосся, особливо пошкодженого, оскільки не травмує пасма.Завдяки компактному розміру та легкості тюрбан можна використовувати як вдома, так і під час подорожей.",
+            "coutry": "Швеція",
+            "category": "Аксесуари",
+            "price": "750.00 ₴",
+            "vidguki": 1,
+            "images": [
+                "./product-img/img2.svg"
+            ],
+            "advantagesTags": [
+                "Підходить для всіх типів волосся",
+                "Виготовлений зі 100% мікрофібри",
+                "Ефективно вбирає вологу",
+                "Зменшує пористість та пухнастість",
+                "Запобігає ламкості та сухості",
+                "Зручно і надійно фіксується"
+            ],
+            "recommended": [
+                "./product-img/vsikh-tipiv-volossia.svg",
+                "Всіх типів волосся",
+                "./product-img/poskodzenogo-volossia.svg",
+                "Пошкодженого волосся"
+            ],
+            "methodOfUse": "Після миття волосся відтисніть надлишок води.Нахиліть голову вперед, обережно обгорніть волосся тюрбаном і зафіксуйте його ґудзиком.Залиште приблизно на 10 хвилин і дочекайтеся повного вбирання вологи.",
+            "sertificate": [
+                "Сертифікована продукція від офіційних партнерів",
+                "Безкоштовна доставка на суму від 3000 ₴",
+                "Відправлення в день замовлення (до 15:00)",
+                "Оплата картою на сайті або накладений платіж",
+                "Покупка частинами від monobank",
+                "Оплата частинами від ПриватБанк",
+                "Офлайн-магазини: Київ (ТРЦ Gulliver, ТРЦ Respublika Park), Львів (ТРЦ Victoria Gardens)"
+            ]
+        },
+        {
+        "id": 12,
+        "code": "",
+        "brand": "BAOBAB COLLECTION",
+        "name": "Home Spray My First Baobab Roma",
+        "shortDescription": "Спрей для дому з ароматом пачулі, бобів тонка та коріандру",
+        "description": "Home Spray Roma – парфумований спрей для простору з колекції My First Baobab.Ноти: пачулі, боби тонка, коріандр – багатий і пряний аромат, що передає атмосферу Риму.До колекції входять парфумовані спреї для простору, аромадифузори та свічки, натхненні спогадами з подорожей різними куточками планети.Флакон прикрашений малюнком у золотих і кольорових відтінках, що відсилає до архітектури Колізею.   Зображення виконане за допомогою трафаретного друку ручної роботи з використанням 24-каратного золота.",
+        "coutry": "Бельгія",
+        "category": "Спрей",
+        "price": "993.00 ₴",
+        "oldPrice": "1 655.00 ₴",
+        "weight": "44 мл",
+        "vidguki": 0,
+        "images": [
+            ""
+        ],
+        "advantagesTags": [
+            "Має теплий, пряний аромат",
+            "Флакон прикрашений трафаретним розписом",
+            "Підходить для текстилю"
+        ],
+        "advantages": [
+            "",
+            "",
+            ""
+        ],
+        "methodOfUse": "Спрей можна використовувати для ароматизації простору або текстилю: подушок, пледів, постільної білизни тощо.Тримайте спрей вертикально, на відстані приблизно 30 см від поверхонь або тканин.Уникайте розпилення безпосередньо на делікатні поверхні, їжу або шкіру.",
+        "sertificate": [
+            "Сертифікована продукція від офіційних партнерів",
+            "Безкоштовна доставка на суму від 3000 ₴",
+            "Відправлення в день замовлення (до 15:00)",
+            "Оплата картою на сайті або накладений платіж",
+            "Покупка частинами від monobank",
+            "Оплата частинами від ПриватБанк",
+            "Офлайн-магазини: Київ (ТРЦ Gulliver, ТРЦ Respublika Park), Львів (ТРЦ Victoria Gardens)"
+        ]
+    },
+    {
+        "id": 6,
+        "code": "HAIR-006",
+        "brand": "ANILLO",
+        "name": "Rosy Night Repair Shampoo",
+        "shortDescription": "Відновлювальний шампунь для волосся",
+        "description": "ANILLO Rosy Night Repair Shampoo – шампунь із 40% води дамаської троянди для волосся, якому бракує зволоження, м'якості та блиску. Формула з церамідами, пептидами й рослинними оліями делікатно очищає без пересушування та допомагає відновити пошкоджене, пористе, фарбоване й освітлене волосся. Формула поєднує комплекс із 5 церамідів, пептид гороху та рослинні олії аргани, камелії й шипшини. Вони сприяють відновленню захисного бар'єра, підтримують оптимальний рівень зволоження та покращують стан довжини після регулярного фарбування, освітлення, термоукладання й інших процедур, що можуть пересушувати та пошкоджувати волосся.",
+        "coutry": "Південна Корея",
+        "category": "шампуні",
+        "price": "1 590.00 ₴",
+        "oldPrice": "1 890.00 ₴",
+        "weight": "450 мл",
+        "vidguki": 16,
+        "images": [
+            "./product-img/img6.svg",
+            "./product-img/prod1 img6.svg",
+            "./product-img/prod2 img6.svg",
+            "./product-img/prod3 img6.svg",
+            "./product-img/prod4 img6.svg"
+        ],
+        "advantagesTags": [
+            "Для сухого, пористого та пошкодженого волосся",
+            "Мʼяко очищає шкіру голови",
+            "Відновлює пошкоджене волосся",
+            "Зволожує та живить",
+            "Зміцнює волосся"
+        ],
+        "activeComponents": [
+            "Вода дамаської троянди (40%)",
+            "Комплекс із 5 церамідів",
+            "Пептид гороху",
+            "Арганова олія",
+            "Олія шипшини"
+        ],
+        "advantages": [
+            "Вода дамаської троянди (40%) та олія дамаської троянди – допомагають підтримувати оптимальний рівень зволоження, живлять волосся та надають йому природного блиску.",
+            "Комплекс із 5 церамідів (NP, AS, AP, NS, EOP) – зміцнює захисний бар'єр волосини та захищає довжину від майбутніх пошкоджень.",
+            "Арганова, камелієва, обліпихова та олія шипшини – живлять волосся, пом'якшують його, додають гладкості та природного блиску.",
+            "Пептид гороху – зміцнює структуру волосся зсередини та підтримує його еластичність."
+        ],
+        "recommended": [
+            "./product-img/vsikh-tipiv-volossia.svg",
+            "Всіх типів волосся",
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/farbovanogo-volossia.svg",
+            "Фарбованого волосся",
+            "./product-img/poristogo-volossia.svg",
+            "Пористого волосся"
+        ],
+        "methodOfUse": "Нанесіть помірну кількість шампуню на долоні, спіньте та рівномірно розподіліть по вологій шкірі голови й волоссю. Масажуйте шкіру голови протягом 2-3 хвилин, після чого ретельно змийте водою. За потреби повторіть.",
+        "sertificate": [
+            "./product-img/vegan.svg",
+            "Веган",
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/bez-silikoniv.svg",
+            "Без силіконів",
+            "./product-img/bez-sulfativ.svg",
+            "Без сульфатів"
+        ],
+        "ingredients": "Aqua (Water), Disodium Laureth Sulfosuccinate, Lauryl Hydroxysultaine, Lauryl Glucoside, Cocamide MIPA, Parfum (Fragrance), Glycerin, Sodium Lauroyl Methylaminopropionate, 1,2-Hexanediol, Methylpropanediol, Rosa Damascena Flower Water, Polyquaternium-10, Caprylyl Glycol, Citric Acid, Polyquaternium-22, Ethylhexylglycerin, Disodium EDTA, Sodium Chloride, Hydrolyzed Gardenia Florida Extract, Propanediol, Maltodextrin, Pisum Sativum (Pea) Peptide, Hydrolyzed Vegetable Protein, Dipropylene Glycol, Ceramide NP, Argania Spinosa Kernel Oil, Camellia Japonica Seed Oil, Hydrogenated Lecithin, Hippophae Rhamnoides Fruit Oil, Rosa Canina Fruit Oil, Glyceryl Stearate, Cholesterol, Ceramide AS, Ceramide AP, Ceramide NS, Rosa Damascena Flower Oil, Ceramide EOP, Linalool, Hydroxycitronellal, Limonene, Alpha-Isomethyl Ionone, Citronellol"
+    },
+    {
+        "id": 7,
+        "code": "HAIR-007",
+        "brand": "MEDICUBE",
+        "name": "PDRN Pink Peptide Serum Mask",
+        "shortDescription": "Тканинна маска для обличчя з PDRN та пептидами",
+        "description": "Medicube PDRN Pink Peptide Ampoule Mask – ампульна тканинна маска для інтенсивного зволоження, вирівнювання тону та природного сяйва шкіри. Підвищує пружність, зменшує тьмяність і робить шкіру більш гладкою та зволоженою вже за 20 хвилин. В основі формули – лососевий PDRN, що підтримує природні процеси відновлення шкіри, пептиди для підвищення пружності та ніацинамід, який вирівнює тон і зменшує тьмяність. Додаткові зволожувальні та антиоксидантні компоненти підтримують оптимальний рівень вологи, зміцнюють захисний бар’єр і захищають шкіру від впливу вільних радикалів.",
+        "coutry": "Південна Корея",
+        "category": "маска для обличчя",
+        "price": "190.00 ₴",
+        "oldPrice": "230.00 ₴",
+        "weight": "23 мл",
+        "vidguki": 56,
+        "images": [
+            "./product-img/img7.svg",
+            "./product-img/prod1 img7.svg",
+            "./product-img/prod2 img7.svg",
+            "./product-img/prod3 img7.svg",
+            "./product-img/prod4 img7.svg"
+        ],
+        "advantagesTags": [
+            "Для всіх типів шкіри",
+            "Ефект вже за 20 хвилин",
+            "Інтенсивно зволожує",
+            "Вирівнює тон",
+            "Надає природного сяйва"
+        ],
+        "activeComponents": [
+            "Лососевий PDRN",
+            "Пептиди",
+            "Ніацинамід",
+            "Цераміди",
+            "Аденозин"
+        ],
+        "advantages": [
+            "Лососевий PDRN (Sodium DNA) – підтримує природні процеси відновлення шкіри, покращує її текстуру та підвищує пружність.",
+            "Пептиди – підтримують синтез колагену, підвищують пружність та еластичність шкіри, зменшують видимість зморшок.",
+            "Ніацинамід – вирівнює тон шкіри, зменшує тьмяність і зміцнює захисний бар’єр.",
+            "Гіалуронова кислота, цераміди та аденозин – інтенсивно зволожують шкіру, зміцнюють захисний бар’єр, зменшують втрату вологи та розгладжують дрібні зморшки."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри",
+            "./product-img/zvolozennia.svg",
+            "Зволоження",
+            "./product-img/vidnovlennia-tonu-skiri.svg",
+            "Вирівнювання тону",
+            "./product-img/vidnovlennia-zaxisnogo-barjera.svg",
+            "Відновлення захисного бар'єра"
+        ],
+        "methodOfUse": "Після очищення та тонізації шкіри розгорніть маску й рівномірно розмістіть її на обличчі, щільно притискаючи до контурів. Залиште на 10-20 хвилин, потім зніміть маску та легкими поплескувальними рухами розподіліть залишки есенції до повного вбирання. Не змивайте.",
+        "sertificate": [
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах"
+        ],
+        "ingredients": "Water, Glycerin, Dipropylene Glycol, Niacinamide, 1,2-Hexanediol, Glycereth-26, Erythritol, Glyceryl Glucoside, Arginine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Methyl Gluceth-20, Ethylhexylglycerin, Polyglyceryl-10 Laurate, Xanthan Gum, Adenosine, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Olea Europaea (Olive) Fruit Oil, Hydrogenated Lecithin, Squalane, Butylene Glycol, Disodium EDTA, Hydroxyethylcellulose, Polyglutamic Acid, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Cyanocobalamin, Melia Azadirachta Leaf Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Sodium DNA, Biosaccharide Gum-1, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Ceramide NP, Cholesterol, Rosa Damascena Flower Oil, Phytosphingosine, Propanediol, Sodium Hyaluronate, Lecithin, Collagen Extract, Hydroxypropyltrimonium Hyaluronate, Glycolipids, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Acetyl Hexapeptide-8, Glutathione, Hyaluronic Acid, Oligopeptide-29, Oligopeptide-32, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1"
+    },
+    {
+        "id": 8,
+        "code": "HAIR-008",
+        "brand": "RARE PARIS",
+        "name": "Box of 5 Exception Rosée Regenerating Face Mask",
+        "shortDescription": "Набір з п'яти відновлюючих масок для обличчя з церамідами, Омега 3 та 6",
+        "description": "Box of 5 Exception Rosée Regenerating Face Mask – це набір з 5 масок для відновлення шкіри обличчя з керамідами, Омега 3 та 6. Засіб стимулює регенерацію клітин шкіри, додає сяяння та свіжості. Продукт захищає шкіру від негативного впливу зовнішніх подразників: вітру, холоду, сонячних променів тощо. Також засіб має антивікову дію, тому бореться зі зморшками і тонкими лініями, розгладжує і підтягує шкіру.",
+        "coutry": "Франція",
+        "category": "маска для обличчя",
+        "price": "1 660.00 ₴",
+        "oldPrice": "1 890.00 ₴",
+        "weight": "115 мл",
+        "vidguki": 34,
+        "images": [
+            "./product-img/img8.svg",
+            "./product-img/prod1 img8.svg",
+            "./product-img/prod2 img8.svg",
+            "./product-img/prod3 img8.svg",
+            "./product-img/prod4 img8.svg"
+        ],
+        "advantagesTags": [
+            "Усуває тьмяність шкіри",
+            "Надає сяйва",
+            "Розгладжує зморшки",
+            "Бореться з ознаками втоми",
+            "Тонізує"
+        ],
+        "activeComponents": [
+            "Омега-3",
+            "Омега-6",
+            "Кераміди"
+        ],
+        "advantages": [
+            "Омега-3 і 6 захищають шкіру від негативного впливу навколишнього середовища. Розгладжують тонкі лінії та зморшки, надають еластичності.",
+            "Кераміди активізують синтез колагену, підтримують водний баланс шкіри."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
+        ],
+        "methodOfUse": "Дістаньте маску з пакування, розправте її та нанесіть на попередньо очищене обличчя. Рівномірно розподіліть маску розгладжуючими рухами, приділяючи особливу увагу зоні навколо очей. Залиште її на обличчі на 10-20 хвилин. Потім зніміть маску і легкими рухами розподіліть залишок сироватки по шкірі. Використовуйте маску 1-2 рази на тиждень. Уникайте потрапляння засобу в очі.",
+        "sertificate": [
+            "./product-img/protestovano-dermatologami.svg",
+            "Протестовано дерматологами"
+        ],
+        "ingredients": "Aqua, Propylene Glycol, 1,2 Hexanediol, Hydroxyethylcellulose, Xanthan Gum, Dipotassium Glycyrrhizate, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Caprylhydroxamic Acid, Glycerin, Squalane, Ceramide, Pentylene Glycol, Ascorbyl Tetraisopalmitate, Glucosyl Ceramide, Plukenetia Volubilis Seed Oil, Polyglyceryl-5 Oleate, Phospholipids, Tocopherol, Hydrogenated Palm, Glycerides Citrate, Tocopheryl Acetate, Cholesterol, Parfum, Triethanolamine."
+    },
+    {
+        "id": 9,
+        "code": "HAIR-009",
+        "brand": "ROSY DROP",
+        "name": "Furrowless Mask 1 pcs",
+        "shortDescription": "Зволожуюча маска для обличчя проти зморшок",
+        "description": "Furrowless Mask – маска для інтенсивного зволоження та боротьби з ознаками старіння шкіри обличчя. Біоцелюлозна маска виготовлена з надтонкого, повністю натурального волокна. Вона забезпечує найкращу проникність поживних речовин до епідермісу та завдяки інноваційним технологіям і потужній формулі розгладжує заломи, зменшує кількість дрібних зморшок, відновлює гідробаланс шкіри, живить й освіжає шкіру всього за 15-30 хвилин.",
+        "coutry": "Японія",
+        "category": "маска для обличчя",
+        "price": "1 320.00 ₴",
+        "oldPrice": "1 490.00 ₴",
+        "weight": "25 мл",
+        "vidguki": 28,
+        "images": [
+            "./product-img/img9.svg",
+            "./product-img/prod1 img9.svg",
+            "./product-img/prod2 img9.svg",
+            "./product-img/prod3 img9.svg",
+            "./product-img/prod4 img9.svg"
+        ],
+        "advantagesTags": [
+            "Виготовлена на основі біорозкладного матеріалу",
+            "Прилягає до обличчя, наче друга шкіра",
+            "Глибоко зволожує шкіру",
+            "Підвищує пружність та еластичність шкіри",
+            "Надає природного сяйва"
+        ],
+        "activeComponents": [
+            "Super Electrolyzed Water",
+            "Плацента дамаської троянди",
+            "Екстракт стовбурових клітин троянди"
+        ],
+        "advantages": [
+            "Super Electrolyzed Water (SE-вода) – відіграє ключову роль у дії маски. Ця вода пройшла спеціальний процес електролізу, що підвищує її електричну енергію в 6 разів вище, ніж у звичайної води. Ця властивість дозволяє активним компонентам маски проникати в глибокі шари шкіри, забезпечуючи інтенсивне зволоження та омолодження зсередини.",
+            "Унікальна технологія BCT (Balloon Compression Technology) – наповнює шкіру зволожувальними компонентами, які проникають у роговий шар шкіри та за 10-15 хвилин розширюються. Стають у 8 разів більше та залишаються в епідермісі до 2 тижнів.",
+            "Плацента троянди та екстракт зі стовбурових клітин троянди – боряться з першими ознаками старіння, запобігають окисленню та сприяють омолодженню."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
+        ],
+        "methodOfUse": "Дістаньте маску з паковання, розправте її та нанесіть на попередньо очищене обличчя. Рівномірно розподіліть маску розгладжуючими рухами, приділяючи особливу увагу зоні навколо очей. Залишіть маску на 15-30 хвилин. Після зняття маски, розподіліть залишки есенції по шкірі обличчя та шиї.",
+        "sertificate": [
+            "./product-img/bez-spirtu.svg",
+            "Без спирту",
+            "./product-img/bez-aromatu.svg",
+            "Без аромату",
+            "./product-img/bez-mineralnix-olii.svg",
+            "Без мінеральних олій",
+            "./product-img/bez-sulfativ.svg",
+            "Без сульфатів"
+        ],
+        "ingredients": "Aqua, Butylene Glycol, Glycerin, Pentylene Glycol, 1,2-Hexanediol, Phenoxyethanol, Diethoxyethyl Succinate, Rosa Damascena Phytoplacenta Culture Extract, Arginine, Betaine, Dipotassium Glycyrrhizate, Rosa Damascena Callus Culture Extract, Sodium Hyaluronate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxypropyl Methylcellulose Stearoxy Ether, Propylene Glycol, Cyclodextrin, Maltosyl Cyclodextrin, Dimaltosyl Cyclodextrin, Maltose, Vitis Vinifera Fruit Extract, Resveratrol, Acetyl Decapeptide-3, Oligopeptide-20, Oligopeptide-24."
+    },
+    {
+        "id": 10,
+        "code": "HAIR-010",
+        "brand": "KEYTH",
+        "name": "Dropped Pearl Of Dragon Body Wash",
+        "shortDescription": "Парфумований гель для тіла",
+        "description": "KEYTH Dropped Pearl Of Dragon Body Wash – парфумований гель для душу із нотами евкаліпта, герані, пачулі та гваякового дерева. Делікатно очищає шкіру, залишаючи відчуття свіжості та комфорту, і огортає тіло свіжим зелено-деревним ароматом із моховими акордами. Рослинні поверхнево-активні речовини при контакті з водою утворюють густу шовковисту піну, яка дбайливо очищає шкіру від щоденних забруднень без відчуття стягнутості після змивання. Екстракт морського винограду освіжає та підтримує гладкість шкіри, екстракт алтеї заспокоює, а вітамін E забезпечує антиоксидантний захист.",
+        "coutry": "Південна Корея",
+        "category": "гель для тіла",
+        "price": "1 870.00 ₴",
+        "oldPrice": "2 300.00 ₴",
+        "weight": "240 мл",
+        "vidguki": 11,
+        "images": [
+            "./product-img/img10.svg",
+            "./product-img/prod1 img10.svg",
+            "./product-img/prod2 img10.svg",
+            "./product-img/prod3 img10.svg",
+            "./product-img/prod4 img10.svg"
+        ],
+        "advantagesTags": [
+            "Дбайливо очищає шкіру без відчуття стягнутості",
+            "Освіжає шкіру та підтримує її гладкість",
+            "Залишає шкіру м’якою та шовковистою на дотик",
+            "Забезпечує антиоксидантний захист",
+            "Не порушує природний баланс шкіри"
+        ],
+        "activeComponents": [
+            "Екстракт морського винограду",
+            "Вітамін E",
+            "Екстракт алтеї"
+        ],
+        "advantages": [
+            "Екстракт морського винограду – допомагає підтримувати гладкість шкіри та залишає відчуття свіжості.",
+            "Екстракт алтеї – заспокоює шкіру та підтримує відчуття комфорту після очищення.",
+            "Вітамін Е – забезпечує антиоксидантний захист шкіри."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
+        ],
+        "methodOfUse": "Нанесіть невелику кількість гелю на вологу шкіру тіла, спіньте масажними рухами та ретельно змийте водою. Використовуйте щодня за потреби. Уникайте нанесення на пошкоджені ділянки шкіри. При появі почервоніння, подразнення або свербежу припиніть використання. Зберігайте в недоступному для дітей місці та уникайте прямого сонячного світла.",
+        "sertificate": [
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах"
+        ],
+        "ingredients": "Water, Sodium C14-16 Olefin Sulfonate, Lauryl Betaine, Coco-Glucoside, Quillaja Saponaria Bark Extract, Cynanchum Atratum Extract, Althaea Rosea Flower Extract, Caulerpa Lentillifera Extract, Lauryl Hydroxysultaine, Caprylyl Glycol, Butylene Glycol, Decyl Glucoside, Citric Acid, Propanediol, Lauramide MIPA, Polyglyceryl-10 Isostearate, Ethylhexylglycerin, Sodium Cocoyl Isethionate, Polyglyceryl-10 Oleate, Sodium Phytate, Polyquaternium-22, 1,2-Hexanediol, Tocopherol, Alcohol Denat., Potassium Sorbate, Fragrance(Parfum), Benzyl Salicylate, Hexyl Cinnamal, Linalool, Citronellol, Yellow 5 (CI 19140)"
+    },
+    {
+        "id": 11,
+        "code": "HAIR-011",
+        "brand": "SISLEY PARIS",
+        "name": "Eye Contour Mask",
+        "shortDescription": "Гель-маска для шкіри навколо очей",
+        "description": "Eye Contour Mask – експрес-маска для миттєвого розгладження та омолодження шкіри навколо очей. Маска швидко освіжає, розгладжує та повертає молодість делікатній шкірі навколо очей. Ефективно усуває набряки, зменшує дрібні зморшки та темні кола під очима. Унікальний коктейль ключових рослинних інгредієнтів миттєво зволожує та зменшує ознаки втоми. Активна формула посилює природний захист шкіри, помітно розгладжує зморшки та зменшує набряки.",
+        "coutry": "Франція",
+        "category": "гель маска",
+        "price": "7 475.00 ₴",
+        "oldPrice": "8 300.00 ₴",
+        "weight": "30 мл",
+        "vidguki": 19,
+        "images": [
+            "./product-img/img11.svg",
+            "./product-img/prod1 img11.svg",
+            "./product-img/prod2 img11.svg",
+            "./product-img/prod3 img11.svg",
+            "./product-img/prod4 img11.svg"
+        ],
+        "advantagesTags": [
+            "Підходить для всіх типів шкіри",
+            "Омолоджує",
+            "Розгладжує тонкі лінії та зморшки",
+            "Освіжає",
+            "Усуває набряки і темні кола під очима"
+        ],
+        "activeComponents": [
+            "Екстракт липи",
+            "Екстракт арніки",
+            "Провітамін В57",
+            "Малахіт"
+        ],
+        "advantages": [
+            "Екстракти липи та арніки пом'якшують і заспокоює шкіру.",
+            "Провітамін B5 підтримує тривалу гідратацію.",
+            "Малахіт чинить потужну антиоксидантну дію."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри",
+            "./product-img/zvolozennia.svg",
+            "Зволоження",
+            "./product-img/rozgladzennia-zmorsok.svg",
+            "Розгладження зморшок"
+        ],
+        "methodOfUse": "Нанесіть засіб товстим шаром на очищену суху шкіру навколо очей і повік. Залишіть на 10 хвилин, видаліть надлишки. Не змивайте. Використовуйте маску 2-3 рази на тиждень.",
+        "sertificate": [
+            "./product-img/protestovano-dermatologami.svg",
+            "Протестовано дерматологами"
+        ],
+        "ingredients": "Glycerin, Water/Eau (Aqua), Helianthus Annuus (Sunflower) Seed Oil, Butylene Glycol, Isodecyl Neopentanoate, Sodium Acrylates Copolymer, Tocopheryl Acetate, Rosa Centifolia Flower Water, Panthenol, Allantoin, Bisabolol, Tilia Cordata Extract, Malachite Extract, Arnica Montana Flower Extract, Ginkgo Biloba Leaf Extract, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Algae Extract, Rosa Damascena Flower Oil, Hydrogenated Polyisobutene, Peg-40 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phospholipids, Polyglyceryl-10 Stearate, Ethylhexylglycerin, Disodium Edta, Citric Acid, Sodium Hydroxide, Dehydroacetic Acid, Tocopherol, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Citronellol, Geraniol."
+    },
+    {
+        "id": 12,
+        "code": "HAIR-012",
+        "brand": "MASQMAI",
+        "name": "SOS Face Mask",
+        "shortDescription": "Очищувальна маска для жирної та схильної до висипань шкіри",
+        "description": "MASQMAI SOS Face Mask – очищувальна маска для шкіри, схильної до жирності та висипань. Глибоко очищає пори та допомагає контролювати надлишок себуму, одночасно матуючи шкіру. Біла глина та рисовий крохмаль поглинають надлишок себуму й забруднення, зменшують жирний блиск і надають шкірі матовості. Екстракт деревію та ефірні олії чайного дерева й евкаліпта мають в’яжучі та очищувальні властивості, роблячи пори менш помітними.",
+        "coutry": "Іспанія",
+        "category": "маска для обличчя",
+        "price": "2 194.00 ₴",
+        "oldPrice": "2 994.00 ₴",
+        "weight": "50 мл",
+        "vidguki": 14,
+        "images": [
+            "./product-img/img12.svg",
+            "./product-img/prod1 img12.svg",
+            "./product-img/prod2 img12.svg",
+            "./product-img/prod3 img12.svg",
+            "./product-img/prod4 img12.svg"
+        ],
+        "advantagesTags": [
+            "Для жирної та схильної до висипань шкіри",
+            "Глибоко очищає пори",
+            "Матує шкіру",
+            "Робить пори менш помітними",
+            "Заспокоює почервоніння та запалення"
+        ],
+        "activeComponents": [
+            "Екстракт деревію",
+            "Олія чайного дерева",
+            "Олія евкаліпта",
+            "Біла глина",
+            "Рисовий крохмаль",
+            "Екстракт календули",
+            "Екстракт прополісу",
+            "Екстракт солодки",
+            "Алантоїн"
+        ],
+        "advantages": [
+            "Екстракт деревію – має в’яжучу, пом’якшувальну та протинабрякову дію, очищає шкіру та сприяє звуженню пор.",
+            "Екстракт календули – має заспокійливу дію, зменшує запалення та підходить для чутливої й схильної до висипань шкіри.",
+            "Алантоїн – має заспокійливу та відновлювальну дію.",
+            "Біла глина та рисовий крохмаль – регулюють вироблення себуму, очищають шкіру від забруднень та матують її.",
+            "Ефірна олія чайного дерева – має антисептичну дію та допомагає протидіяти бактеріям, пов’язаним із появою висипань.",
+            "Екстракт прополісу – має протизапальну та відновлювальну дію, особливо підходить для жирної та схильної до висипань шкіри, зокрема при чорних цятках і надлишку себуму.",
+            "Екстракт солодки – має заспокійливу, антиоксидантну та освітлювальну дію, зменшує почервоніння й допомагає запобігати появі постзапальної пігментації.",
+            "Ефірна олія евкаліпта – має в’яжучу та антисептичну дію."
+        ],
+        "recommended": [
+            "./product-img/vid-visipan.svg",
+            "Від висипань",
+            "./product-img/zvuzennia-por.svg",
+            "Звуження пор",
+            "./product-img/pri-cornix-ciatkax.svg",
+            "При чорних цятках"
+        ],
+        "methodOfUse": "Нанесіть маску щільним шаром на очищену суху шкіру обличчя. Залиште на 5-10 хвилин, потім змийте водою, м’яко масажуючи шкіру. Використовуйте 1 раз на тиждень.",
+        "sertificate": [
+            "./product-img/naturalni-ingredijenti.svg",
+            "Натуральні інгредієнти",
+            "./product-img/nekomedogennii.svg",
+            "Некомедогенний",
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах"
+        ],
+        "ingredients": "Aqua (Water), Kaolin, Oryza, Sativa Strach, Alcohol Denat, Propanediol, Glycerylstearate, Isorpopyl Palmitate, Glycerin, Peg 100 stearate, Isostearyl, Isostearate, Titanium Dioxide, Parfum (Fragance), Helianthus Anuus (Sunflower) Seed Oil, Sorbitan stearate, Glycine Soja (Soybean) Oil, Cetyl Alcohol, Hectorite, Achilleamillefolium Flower Extract, Calendula Officinalis Flower Extract, Octyldodecanol, Glycyrrhiza Glabra (Licorice) Root Extract, Eucalyptus Globulusleaf Oil, Propylene Glycol, Octyldodecyl Myristate, Potassium Cetyl Phosphate, Propolis Extract, Ethylhexylglycerin, Allantoin, Tocopherol, Beta-sitiosterol, Squalene, Melaleuca alternifolia (Tea Tree) Leaf Oil, Benzyl Alcohol, Salicylic Acid, Xantham gum, Sorbic Acid, Menthol, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Lactic Acid, Benzyl Salicyate, Linalool, Hexyl Cinnamal"
+    },
+    {
+        "id": 13,
+        "code": "HAIR-013",
+        "brand": "IS CLINICAL",
+        "name": "Hydra-Intensive Cooling Masque",
+        "shortDescription": "Маска для інтенсивного зволоження",
+        "description": "Hydra–Intensive Cooling Masque – маска з охолоджувальним ефектом, зменшує запалення шкіри та набряки, відновлює та глибоко зволожує. Містить велику кількість натуральних антиоксидантів, які захищають шкіру від вільних радикалів та передчасного старіння. Та гіалуронову кислоту рослинного походження, яка підвищує пружність та еластичність шкіри.",
+        "coutry": "США",
+        "category": "маска для обличчя",
+        "price": "5 625.00 ₴",
+        "oldPrice": "6 300.00 ₴",
+        "weight": "120 мл",
+        "vidguki": 51,
+        "images": [
+            "./product-img/img13.svg",
+            "./product-img/prod1 img13.svg",
+            "./product-img/prod2 img13.svg",
+            "./product-img/prod3 img13.svg",
+            "./product-img/prod4 img13.svg"
+        ],
+        "advantagesTags": [
+            "Підходить для всіх типів шкіри",
+            "Глибоко зволожує",
+            "Освіжає шкіру",
+            "Заспокоює шкіру",
+            "Захищає від вільних радикалів"
+        ],
+        "activeComponents": [
+            "Олія листя розмарину 7.0%",
+            "Гіалуронова кислота 5.0%",
+            "Сік листя барбадоського алое вера 3.0%",
+            "Екстракт листя камелії китайської 1.0%",
+            "Екстракт виноградних кісточок 1.0%"
+        ],
+        "advantages": [
+            "Олія листя розмарину 7.0% – антиоксидант з фотозахисними, протизапальними, антибактеріальними, антивірусними та протипухлинними властивостями. Вона захищає шкіру від шкідливого впливу навколишнього середовища та допомагає боротися з різними запаленнями та подразненнями.",
+            "Гіалуронат натрію (гіалуронова кислота рослинного походження) 5.0% – має властивість утримувати воду, кількість якої може бути в 1800 разів більше, ніж вага однієї молекули гіалуронової кислоти. Вона глибоко зволожує шкіру, зменшує вираженість дрібних зморшок, і створює ефект ліфтингу, шкіра стає більш гладкою та пружною.",
+            "Сік листя барбадоського алое вера 3.0% – має протизапальні та антимікробні властивості, які пришвидшують загоєння ран. Також покращує синтез колагену, заспокоює шкіру та зменшує запалення.",
+            "Екстракт листя камелії китайської 1.0% – антиоксидант, який запобігає пошкодженню ДНК та протидіє оксидативному стресу. Він має протизапальну дію та сприяє відновленню імунітету шкіри.",
+            "Екстракт виноградних кісточок 1.0% – антиоксидант, який знімає подразнення шкіри та пришвидшує загоєння поверхневих пошкоджень. Він захищає шкіру та зберігає її здоровий вигляд."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри",
+            "./product-img/zvolozennia.svg",
+            "Зволоження",
+            "./product-img/skiri-z-akne.svg",
+            "Шкіри з акне",
+            "./product-img/postprocedurnogo-dogliadu.svg",
+            "Постпроцедурного догляду"
+        ],
+        "methodOfUse": "Нанесіть на очищену шкіру обличчя та шиї тонким шаром. Час використання маски від 5 до 20 хвилин.",
+        "sertificate": [
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/vegan.svg",
+            "Веган",
+            "./product-img/bezpecno-dlia-vagitnix.svg",
+            "Безпечно для вагітних"
+        ],
+        "ingredients": "Water/Aqua/Eau, Alcohol Denat., Butylene Glycol, Sodium Hyaluronate, Glycerin, Aloe Barbadensis Leaf Juice, Polysorbate 20, Triethanolamine, Pichia/Resveratrol Ferment Extract, Camellia Sinensis Leaf Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Vitis Vinifera (Grape) Seed Extract, Malachite Extract, Phenoxyethanol, Asiaticoside, Asiatic Acid, Madecassic Acid, Carbomer, Caprylyl Glycol, Ethylhexylglycerin, Hexylene Glycol, Menthol."
+    },
+    {
+        "id": 14,
+        "code": "HAIR-014",
+        "brand": "MELUMÉ SKINSCIENCE",
+        "name": "Nightly Morphing Mask",
+        "shortDescription": "Нічна маска для інтенсивного оновлення шкіри з ретиналем",
+        "description": "MELUMÉ SKINSCIENCE Nightly Morphing Mask – незмивна нічна маска для інтенсивного оновлення шкіри з ретиналем, екзосомами та інноваційним комплексом Liftyl™. Покращує текстуру, вирівнює тон, підтягує контури обличчя та зменшує ознаки старіння – вранці шкіра виглядає більш гладкою, свіжою та доглянутою. Оновлена формула поєднує 0,05% ретиналю – більш ефективну форму вітаміну A, ніж ретинол, – та екзосоми на основі лактобактерій, які відновлюють шкіру та зміцнюють захисний бар’єр. Комплекс Liftyl™ (екстракт рожевого дерева) підтягує шкіру, покращує овал обличчя та зменшує видимість носогубних складок. Разом вони стимулюють оновлення клітин, активують синтез колагену та роблять шкіру більш гладкою, щільною й рівною.",
+        "coutry": "Німеччина",
+        "category": "маска для обличчя",
+        "price": "5 300.00 ₴",
+        "oldPrice": "5 900.00 ₴",
+        "weight": "60 мл",
+        "vidguki": 34,
+        "images": [
+            "./product-img/img14.svg",
+            "./product-img/prod1 img14.svg",
+            "./product-img/prod2 img14.svg",
+            "./product-img/prod3 img14.svg",
+            "./product-img/prod4 img14.svg"
+        ],
+        "advantagesTags": [
+            "Підходить для більшості типів шкіри",
+            "Стимулює оновлення клітин",
+            "Покращує текстуру шкіри",
+            "Зменшує видимість зморшок",
+            "Підтягує контури обличчя"
+        ],
+        "activeComponents": [
+            "Екзосоми лактобактерій",
+            "Ретиналь (0,05%)",
+            "Комплекс GMO",
+            "Біоміметичні полісахариди",
+            "Гіалуронова кислота"
+        ],
+        "advantages": [
+            "Екзосоми лактобактерій – підтримують природні процеси відновлення шкіри, зміцнюють захисний бар'єр, зменшують зморшки та вирівнюють тон.",
+            "Ретиналь (0,05%) – більш ефективна форма вітаміну A, ніж ретинол, що швидше перетворюється в активну форму. Стимулює синтез колагену, зменшує зморшки та вирівнює текстуру з меншим ризиком подразнення.",
+            "Liftyl™ (1%) – екстракт рожевого дерева, що підтягує шкіру, покращує овал обличчя та зменшує видимість носогубних складок.",
+            "Астаксантин – потужний антиоксидант, що захищає шкіру від фотостаріння, підвищує еластичність та зменшує пігментацію.",
+            "Гіалуронова кислота – інтенсивно зволожує, покращує еластичність та зменшує видимість дрібних зморшок."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри"
+        ],
+        "methodOfUse": "Нанесіть маску тонким шаром на очищену шкіру обличчя та шиї, рівномірно розподіліть до вбирання. Не змивайте. Залиште на ніч. Використовуйте ввечері: перші 2 тижні – 1-2 рази на тиждень, щоб шкіра адаптувалася до ретиналю. Далі – 1-3 рази на тиждень залежно від потреб та реакції шкіри. На початку використання можливе легке пощипування або незначне лущення – це нормальна реакція шкіри на активні компоненти формули.",
+        "sertificate": [
+            "./product-img/vsix-tipiv-skiri.svg",
+            "Всіх типів шкіри",
+            "./product-img/rozgladzennia-zmorsok.svg",
+            "Розгладження зморшок",
+            "./product-img/zvolozennia.svg",
+            "Зволоження",
+            "./product-img/zvuzennia-por.svg",
+            "Звуження пор",
+            "./product-img/vidnovlennia-tonu-skiri.svg",
+            "Вирівнювання тону"
+        ],
+        "ingredients": "Aqua, Butylene Glycol, Lactobacillus Extracellular Vesicles, Cococaprylate, Decyl Oleate, Glycerin, Butyrospermum Parkii Butter, Steareth-2, Hydrolyzed Yeast Extract, Caprylic/Capric Triglyceride, Simmondsia Chinensis Seed Oil, Prunus Amygdalus Dulcis Oil, Cetearyl Alcohol, Steareth-21, Melilotus Officinalis Extract, Dolichos Biflorus Callus Extract, Aniba Rosaeodora Wood Extract, Haematococcus Pluvialis Extract, Polyglucuronic Acid, Retinal, Astaxanthin, Panthenol, Tocopherol, Allantoin, Lecithin, Aloe Barbadensis Leaf Juice, Sodium Hyaluronate, Biosaccharide Gum-1, Hydrogenated Rapeseed Oil, Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Citric Acid, Maltodextrin, Cetyl Hydroxyethylcellulose, Carbomer, Sodium Cetearyl Sulfate, Caramel, Potassium Phosphate, Disodium Phosphate, Sodium Metabisulfite, Ethylhexylglycerin, Propanediol, 1,2-Hexanediol, Caprylyl Glycol, Glyceryl Caprylate, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+        "id": 15,
+        "code": "HAIR-015",
+        "brand": "DAVROE",
+        "name": "Moisture Senses Hydrating Shampoo",
+        "shortDescription": "Зволожуючий шампунь для волосся",
+        "description": "Moisture Senses Hydrating Shampoo – це зволожувальний шампунь для сухого волосся. Делікатна формула засобу м’яко очищає, відновлює, живить і розгладжує пасма, робить їх слухняними і полегшує розчісування. Шампунь Moisture Senses утримує вологу, підтримує природну еластичність та пружність. Він підходить для нарощеного волосся та для чутливої або проблемної шкіри голови. Засіб зменшує пухнастість, додає блиску, перетворює сухі, ламкі пасма на здорові і пружні.",
+        "coutry": "Австралія",
+        "category": "шампуні",
+        "price": "1 670.00 ₴",
+        "oldPrice": "2 670.00 ₴",
+        "weight": "325 мл",
+        "vidguki": 21,
+        "images": [
+            "./product-img/img15.svg",
+            "./product-img/prod1 img15.svg",
+            "./product-img/prod2 img15.svg",
+            "./product-img/prod3 img15.svg",
+            "./product-img/prod4 img15.svg"
+        ],
+        "advantagesTags": [
+            "Покращує стан сухого волосся",
+            "Зволожує волосся",
+            "Захищає від ламкості",
+            "Відновлює волосся",
+            "Зменшує пухнастість"
+        ],
+        "activeComponents": [
+            "Ягоди Ліллі Піллі",
+            "Олія виноградних кісточок",
+            "Олія оливкового листя",
+            "Амінокислоти пшениці"
+        ],
+        "advantages": [
+            "Ліллі Піллі з вітаміном С та фруктовими кислотами зволожує сухе, пошкоджене волосся, допомагає очистити його, відновити пружність.",
+            "Гіалуронова кислота живить та утримує вологу.",
+            "Олія виноградних кісточок, олія оливкового листя та амінокислоти пшениці пом'якшують, надають блиску неслухняному волоссю."
+        ],
+        "recommended": [
+            "./product-img/vsix-tipiv-volossia.svg",
+            "Всіх типів волосся",
+            "./product-img/suxogo-volossia.svg",
+            "Сухого волосся",
+            "./product-img/poskodzenogo-volossia.svg",
+            "Пошкодженого волосся",
+            "./product-img/kuceriavogo-volossia.svg",
+            "Кучерявого волосся"
+        ],
+        "methodOfUse": "Нанесіть засіб на вологе волосся від коренів до кінчиків масажними рухами. Залиште на 2 хвилини перед змиванням. Повторіть за необхідності. Поєднуйте з кондиціонером Moisture Senses для глибокого зволоження волосся.",
+        "sertificate": [
+            "./product-img/ne-testujetsia-na-tvarinax.svg",
+            "Не тестується на тваринах",
+            "./product-img/bez-sulfativ.svg",
+            "Без сульфатів",
+            "./product-img/bez-gliutenu.svg",
+            "Без глютену",
+            "./product-img/vegan.svg",
+            "Веган"
+        ],
+        "ingredients": "Aqua, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Lauryl Sulfoacetate, Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Glycol Distearate, Cocamidopropylamine Oxide, Glycerin, Laureth-4, Sodium Cocoyl Isethionate, Parfum, Argania Spinosa Kernel Oil, PEG-90M, Polyquaternium-10, Lactic Acid, Sodium Chloride, Polyquaternium-7, Tetrasodium Glutamate Diacetate, Hydrolyzed Quinoa, Phenoxyethanol, Vitis Vinifera Seed Extract, Sodium Benzoate, Silica, Benzoic Acid, Olea Europaea Leaf Extract, Terminalia Ferdinandiana Fruit Extract, Dehydroacetic Acid, Sodium Acetate, Benzyl Alcohol, Isopropyl Alcohol, Syzygium Leuhmanii Fruit Extract, Potassium Sorbate, Sodium Lauroyl Sarcosinate, Triethanolamine, Amodimethicone, C12-14 Pareth-5, C12-14 Pareth-7, Benzyl Salicylate, Limonene."
     }
+        
 ]

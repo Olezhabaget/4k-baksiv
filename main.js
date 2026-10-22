@@ -54,7 +54,7 @@ fetch('./products.json')
         lerka = json;
         json.forEach(product => {
             products.innerHTML += `
-            <div class="product">
+            <div class="product" "data-id=${product.id}">
             <img class="img-4" src="Image/Group 36.svg" alt="img">
                         <img src="${product.images[0]}" alt="img">
                         <div class="div-18">
@@ -85,7 +85,25 @@ fetch('./products.json')
                     </div>
             `
         });
-    })
+    });
+
+products.addEventListener("click", function (nika) {
+    if (nika.target.closest(".btn1")){
+        return;
+    }
+    if (nika.target.closest(".iamstar")){
+        return;
+    }
+    if (nika.target.closest(".img-4")){
+        return;
+    }
+     const nikusya = nika.target.closest(".product");
+     if(nikusya){
+    window.location.href= `product.html?id=${nikusya.dataset.id}`;
+     }
+    });
+
+   
 
 fetch('./products.json')
     .then(response => response.json())
@@ -194,4 +212,3 @@ open2.addEventListener("click", () => {
 close2.addEventListener("click", () => {
     modal2.style.display = "none";
 });
-
