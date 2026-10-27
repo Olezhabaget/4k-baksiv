@@ -54,7 +54,7 @@ fetch('./products.json')
         lerka = json;
         json.forEach(product => {
             products.innerHTML += `
-            <div class="product" "data-id=${product.id}">
+            <div class="product" data-id="${product.id}">
             <img class="img-4" src="Image/Group 36.svg" alt="img">
                         <img src="${product.images[0]}" alt="img">
                         <div class="div-18">

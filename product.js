@@ -1,22 +1,22 @@
 const tato = document.getElementById("tato-div");
 
-fetch('product.js')
+fetch('./products.json')
     .then(response => response.json())
     .then(json => {
         const id = new URLSearchParams(window.location.search).get("id");
         const product = json.find(item => item.id == id);
         if(product){
-            tato.innerHTML=`
+            tato.innerHTML+=`
             <div>
 
                 <div class="diiv">
                     <div>
                         <div class="trioimg">
-                            <img src="" alt="img">
-                            <img src="" alt="img">
-                            <img src="" alt="img">
+                            <img src="${product.images[2]}" alt="img">
+                            <img src="${product.images[3]}" alt="img">
+                            <img src="${product.images[4]}" alt="img">
                         </div>
-                        <img src="" alt="img">
+                        <img src="${product.images[1]}" alt="img">
                     </div>
 
                     <div class="opis1">
@@ -24,9 +24,9 @@ fetch('product.js')
                             <h1>ІНФОРМАЦІЯ ПРО ПРОДУКТ</h1>
                             <button><img src="Image/Vector (3).svg" alt="img"></button>
                         </div>
-                        <p></p>
-                        <h4>Країна бренду: <span></span></h4>
-                        <h4>Обʼєм: <span></span></h4>
+                        <p>${product.description}</p>
+                        <h4>Країна бренду: <span>${product.coutry}</span></h4>
+                        <h4>Обʼєм: <span>${product.weight}</span></h4>
                     </div>
 
 
@@ -36,13 +36,13 @@ fetch('product.js')
                             <button><img src="Image/Vector (3).svg" alt="img"></button>
                         </div>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>${product.advantages[0]}</li>
+                            <li>${product.advantages[1]}</li>
+                            <li>${product.advantages[2]}</li>
+                            <li>${product.advantages[3]}</li>
+                            <li>${product.advantages[4]}</li>
+                            <li>${product.advantages[5]}</li>
+                            <li>${product.advantages[6]}</li>
                         </ul>
 
                     </div>
@@ -52,7 +52,7 @@ fetch('product.js')
                             <h1>СПОСІБ ЗАСТОСУВАННЯ</h1>
                             <button><img src="Image/Vector (3).svg" alt="img"></button>
                         </div>
-                        <p></p>
+                        <p>${product.methodOfUse}</p>
                     </div>
 
 
@@ -62,8 +62,18 @@ fetch('product.js')
                             <button><img src="Image/Vector (3).svg" alt="img"></button>
                         </div>
                         <div>
-                            <img src="" alt="img">
-                            <p></p>
+                            <div>
+                            <img src="${product.sertificate[0]}" alt="img">
+                            <p>${product.product.sertificate[1]}</p>
+                        </div>
+                        <div>
+                            <img src="${product.sertificate[2]}" alt="img">
+                            <p>${product.product.sertificate[3]}</p>
+                        </div>
+                        <div>
+                            <img src="${product.sertificate[4]}" alt="img">
+                            <p>${product.product.sertificate[5]}</p>
+                        </div>
                         </div>
                     </div>
 
@@ -73,7 +83,7 @@ fetch('product.js')
                             <h1>СКЛАД</h1>
                             <button><img src="Image/Vector (3).svg" alt="img"></button>
                         </div>
-                        <p></p>
+                        <p>${product.ingredients}</p>
                     </div>
 
 
@@ -136,28 +146,28 @@ fetch('product.js')
                 </div>
 
                 <div class="diiv2">
-                    <h6></h6>
-                    <h1></h1>
-                    <h2></h2>
+                    <h6>${product.brand}</h6>
+                    <h1>${product.name}</h1>
+                    <h2>${product.shortDescription}</h2>
                     <div>
                         <h3>Знижка -50% на догляд для шкіри голови та тіла.</h3>
                     </div>
                     <p>Основні переваги</p>
-                    <button></button>
-                    <button></button>
-                    <button></button>
-                    <button></button>
-                    <button></button>
+                    <button>${product.advantagesTags[0]}</button>
+                    <button>${product.advantagesTags[1]}</button>
+                    <button>${product.advantagesTags[2]}</button>
+                    <button>${product.advantagesTags[3]}</button>
+                    <button>${product.advantagesTags[4]}</button>
                     <p>Активні компоненти</p>
-                    <button></button>
-                    <button></button>
-                    <button></button>
-                    <button></button>
+                    <button>${product.activeComponents[0]}</button>
+                    <button>${product.activeComponents[1]}</button>
+                    <button>${product.activeComponents[2]}</button>
+                    <button>${product.activeComponents[3]}</button>
                     <p>Обʼєм</p>
-                    <button></button>
+                    <button>${product.weight}</button>
                     <div>
-                        <h4></h4>
-                        <s></s>
+                        <h4>${product.price}</h4>
+                        <s>${product.oldPrice}</s>
                     </div>
                     <div>
                         <button></button>
