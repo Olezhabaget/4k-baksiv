@@ -1,0 +1,96 @@
+:root {
+    --lera: "Inter", sans-serif;
+    --lera1: "Brygada 1918", serif;
+    --lera2: "Chonburi", serif;
+    --lera3: "Koh Santepheap", serif;
+
+    --lerac: #E0C4AD;
+    --lerac1: #FFFFFF;
+    --lerac2: #FBF9DA;
+    --lerac3: #000000;
+    --lerac4: #6A5B4E;
+    --lerac5: #C50000;
+}
+
+
+
+main {
+    position: relative;
+    top: 80px;
+    width: 100%;    
+}
+
+main h1 {
+    font-family: var(--lera);
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 200px;
+    text-align: center;
+    color: var(--lerac);
+    justify-content: center;
+    align-items: center;
+}
+
+main h2 {
+    font-family: var(--lera);
+    font-weight: 400;
+    font-style: Medium;
+    font-size: 48px;
+    text-align: center;
+    color: var(--lerac);
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -150px;
+}
+
+main h3 {
+    font-family: var(--lera);
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    text-align: center;
+    width: 386px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -175px;
+    left: 37%;
+}
+
+main div {
+    display: flex;
+    gap: 21px;
+    position: relative;
+    top: -150px;
+    left: 37%;
+}
+
+.btn11 {
+    width: 192px;
+    height: 41px;
+    background-color: var(--lerac2);
+    border: none;
+    font-family: var(--lera);
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 15px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.btn222{
+width: 192px;
+height: 41px;
+border: 1px black solid;
+background-color: white;
+font-family: var(--lera);
+font-weight: 500;
+font-style: Medium;
+font-size: 15px;
+text-align: center;
+cursor: pointer;
+}

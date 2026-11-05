@@ -211,12 +211,18 @@
     font-size: 14px;
 }
 
+.diiv2{
+    position: relative;
+    top: -570px;
+}
+
 .diiv2 h6 {
     font-family: var(--lera);
     font-weight: 500;
     font-style: Medium;
     font-size: 20px;
     color: #999999;
+    margin-bottom: -10px;
 }
 
 .diiv2 h1 {
@@ -224,6 +230,7 @@
     font-weight: 500;
     font-style: Medium;
     font-size: 32px;
+    margin-bottom: -10px;
 }
 
 .diiv2 h2 {
@@ -235,9 +242,14 @@
 }
 
 .diiv2 .or {
-    width: 776px;
+    width: 796px;
     height: 61px;
     background-color: #FBF9DA;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 10px;
+    padding-left: 20px;
 }
 
 .or h3 {
@@ -250,6 +262,8 @@
     font-style: "Regular";
     font-size: 20px;
     color: #999999;
+    margin-top: 44px;
+    margin-bottom: -5px;
 }
 
 .diiv2 button {
@@ -261,6 +275,8 @@
     border-radius: 50px;
     border: 0.5px solid #000000;
     cursor: pointer;
+    margin-right: 16px;
+    margin-top: 21px;
 }
 
 .diiv2 .brr {
@@ -329,6 +345,7 @@
     gap: 22px;
     justify-content: left;
     align-items: center;
+    margin-bottom: -30px;
 }
 
 .diiv2 h5 {
@@ -355,4 +372,8 @@ font-size: 20px;
     justify-content: left;
     align-items: center;
     gap: 18px;
+}
+
+.diiv2 hr{
+    margin-top: 45px;
 }

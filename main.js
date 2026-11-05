@@ -8,6 +8,19 @@ const leftbtn2 = document.getElementById("leftbtn2");
 const rightbtn2 = document.getElementById("rightbtn2");
 
 
+const bagopn = document.getElementById("bagopn");
+const modal5 = document.getElementById("modal5");
+const closs = document.getElementById("closs");
+
+bagopn.addEventListener("click", () => {
+    modal5.style.display = "block";
+});
+
+closs.addEventListener("click", () => {
+    modal5.style.display = "none";
+});
+
+
 let bibik = 0;
 let lerka = [];
 

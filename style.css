@@ -398,11 +398,13 @@ header button {
 
 .modal4 {
     display: flex;
-    position: relative;
+    position: absolute;
     top: 300px;
     width: 1512px;
     height: 238px;
     display: none;
+    z-index: 999;
+    background-color: white;
 }
 
 .div-14 {
@@ -1237,26 +1239,94 @@ footer h2 {
     width: 316px;
 }
 
-.sec9 h2{
+.sec9 h2 {
     margin-left: 115px;
 }
 
-.sec9 button{
+.sec9 button {
     font-family: var(--lera);
-font-weight: 400;
-font-style: Medium;
-font-size: 20px;
-background-color: var(--lerac1);
-border: 1px black solid;
-width: 216px;
-height: 40px;
-margin-left: 656px;
-margin-top: 60px;
-cursor: pointer;
-transition: 0.3s;
+    font-weight: 400;
+    font-style: Medium;
+    font-size: 20px;
+    background-color: var(--lerac1);
+    border: 1px black solid;
+    width: 216px;
+    height: 40px;
+    margin-left: 656px;
+    margin-top: 60px;
+    cursor: pointer;
+    transition: 0.3s;
 }
 
-.sec9 button:hover{
-background-color: var(--lerac3);
-color: var(--lerac1);
+.sec9 button:hover {
+    background-color: var(--lerac3);
+    color: var(--lerac1);
+}
+
+/* кошик */
+
+.modal5 {
+    width: 861px;
+    height: 631px;
+    position: fixed;
+    z-index: 999;
+    background-color: var(--lerac1);
+    top: -1px;
+    left: 1525px;
+    display: none;
+    transition: 1s;
+    animation: vv 1s;
+}
+
+@keyframes vv{
+    0%{
+        transform: translateX(-860px);
+    }
+
+    100%{
+        transform: translateX(0px);
+    }
+}
+
+.modal5 h2 {
+    font-family: var(--lera);
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: var(--lerac4);
+    position: relative;
+    top: 95px;
+    left: 96px;
+}
+
+.btnn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    position: relative;
+    left: 790px;
+    top: -10px;
+}
+
+.btnq {
+    width: 400px;
+    height: 36px;
+    border: none;
+    background-color: var(--lerac3);
+    color: var(--lerac1);
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 470px;
+    left: 25%;
+}
+
+.btnq img {
+    width: 18px;
 }

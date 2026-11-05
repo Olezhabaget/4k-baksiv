@@ -150,6 +150,7 @@ fetch('./products.json')
                     <h1>${product.name}</h1>
                     <h2>${product.shortDescription}</h2>
                     <div class="or">
+                        <img src="Image/Group 139.svg" alt="img">
                         <h3>Знижка -50% на догляд для шкіри голови та тіла.</h3>
                     </div>
                     <p>Основні переваги</p>
